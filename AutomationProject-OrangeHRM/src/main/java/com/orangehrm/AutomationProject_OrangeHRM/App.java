@@ -1,0 +1,13 @@
+package com.orangehrm.AutomationProject_OrangeHRM;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
