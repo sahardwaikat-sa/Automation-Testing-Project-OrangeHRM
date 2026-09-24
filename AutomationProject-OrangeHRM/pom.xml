@@ -21,5 +21,25 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <!-- Source: https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-chrome-driver</artifactId>
+    <version>4.20.0</version>
+    <scope>compile</scope>
+</dependency>
+<!-- Source: https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+<dependency>
+    <groupId>io.github.bonigarcia</groupId>
+    <artifactId>webdrivermanager</artifactId>
+    <version>6.3.3</version>
+    <scope>compile</scope>
+</dependency>
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.5.1</version>
+    <scope>test</scope>
+</dependency>
   </dependencies>
 </project>
