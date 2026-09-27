@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="PimTestRun(failed)">
+    <classes>
+      <class name="Tests.pimTest">
+        <methods>
+          <include name="SetupObject"/>
+          <include name="setupPage"/>
+          <include name="verifyEnterPimPage"/>
+        </methods>
+      </class> <!-- Tests.pimTest -->
+    </classes>
+  </test> <!-- PimTestRun(failed) -->
+</suite> <!-- Failed suite [Suite] -->
