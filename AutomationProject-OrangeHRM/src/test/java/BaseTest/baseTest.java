@@ -2,24 +2,35 @@ package BaseTest;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
 
 public class baseTest {
 
-	protected WebDriver driver;
+    protected WebDriver driver;
+    protected String Url = "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login";
 
-	String Url = "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login";
+    @BeforeMethod
+    public void setupDriver() {
+        driver = new ChromeDriver();
+        driver.manage().window().maximize();
+        System.out.println("Browser opened");
+    }
 
-	@Test
-	public void setupPage() {
+   @AfterMethod
+   public void tearDown() {
+        if (driver != null) {
+            driver.quit();
+            driver = null;
+        }
+    }
 
-		driver = new ChromeDriver();
-		driver.get(Url);
-		driver.manage().window().maximize();
-		
-		
-
-	}
-
+    protected void login(String username, String password) {
+        driver.get(Url);
+        pages.loginPage loginObject = new pages.loginPage(driver);
+        loginObject.enterUsername(username);
+        loginObject.enterPassword(password);
+        loginObject.clickLogin();
+        loginObject.openNextPage();
+    }
 }
