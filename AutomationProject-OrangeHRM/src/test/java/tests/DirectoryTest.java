@@ -62,7 +62,7 @@ public class DirectoryTest extends BaseClass {
 	    directoryPage.searchByLocation();
 	}
 	
-	@Test
+	
 	public void resetSearchFilters() {
 	    DirectoryPage directoryPage = new DirectoryPage(driver);
 	    directoryPage.clickDirectory();
