@@ -1,5 +1,6 @@
 package pages;
 
+import java.time.Duration;
 import java.time.LocalDate;
 import java.util.Date;
 import java.util.List;
@@ -7,10 +8,13 @@ import java.util.List;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class leavePage {
 	
 	WebDriver driver;
+	WebDriverWait wait;
 	
 	// locaters 
 	
@@ -29,6 +33,8 @@ public class leavePage {
 	public  leavePage (WebDriver driver) {
 		
 		this.driver=driver;
+		this.wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+		
 	}
 	
 	// methods
@@ -36,31 +42,41 @@ public class leavePage {
 	
 	
 	public void enterLeavePage() {
-		driver.findElement(LeaveButton).click();
+			
+	wait.until(ExpectedConditions.elementToBeClickable(LeaveButton)).click();
+	
 	}
 	
 	
 	public void applyLeave() {
 		
-		driver.findElement(LeaveButton).click();
+		wait.until(ExpectedConditions.elementToBeClickable(ApplyButton)).click();
+	}
+	
+	
+	
+	public void leaveTypelistclick() {
+		
+		wait.until(ExpectedConditions.elementToBeClickable(leavetype)).click();
+		
+		
 			}
 	
-	public void leaveTypelist() {
-		
-		driver.findElement(leavetype).click();
-	}
+	
 	
 	// leave list method
 	
 	public boolean checkLeaveList() {
+		leaveTypelistclick();
+		
 		List<WebElement>leavelist=driver.findElements(By.xpath(" //div[@role='option']"));
         if(leavelist.isEmpty())
       		  return false;
         return true;
-				
-	}
+	}		
 	
 	public boolean checkLeaveListItems (String listitem) {
+		leaveTypelistclick();
 		
 		List<WebElement>leaveList= driver.findElements(By.xpath(" //div[@role='option']"));
 		
@@ -76,7 +92,7 @@ public class leavePage {
 	// leave date method
 	
 	
-	public void fromleveDateSelect(int day) {
+	public void fromleveDateSelect(String day) {
 		
 		LocalDate date = LocalDate.now();
 
@@ -92,7 +108,7 @@ public class leavePage {
 	}
 	
 	
-	public void toleveDateSelect(int day) {
+	public void toleveDateSelect(String day) {
 		
 		LocalDate date = LocalDate.now();
 
@@ -106,15 +122,16 @@ public class leavePage {
 				
 	}
 	
-public void PartialDays(String type) {
+public String PartialDays(String type) {
 	
 	WebElement typeleave = driver.findElement(PartialDays);
 	typeleave.click();
 	typeleave.findElement(By.xpath(".//*[normalize-space()='"+type+"']")).click();
+	return typeleave.getAttribute(type);
 	
 	
 }
-	
+	//------------------------------------------------------------------------
 public boolean PartialDayslist(String Type) {
 	
 	List <WebElement> PartialDayslist = driver.findElements(PartialDays);
@@ -124,6 +141,7 @@ public boolean PartialDayslist(String Type) {
         return false;
 	  
 }
+
 
 public void duration(String Duration) {
 	
@@ -144,9 +162,11 @@ public boolean durationlist(String Type) {
 	  
 }
 
-public void addcomments (String Text) {
+public String addcomments (String Text) {
 	
-	driver.findElement(Commentsfields).sendKeys(Text);
+	WebElement text= driver.findElement(Commentsfields);
+	text.sendKeys(Text);
+	return text.getAttribute(Text);
 }
 
 

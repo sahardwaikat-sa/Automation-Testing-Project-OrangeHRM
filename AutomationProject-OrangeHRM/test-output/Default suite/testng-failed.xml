@@ -3,28 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Tests.pimTest">
+      <class name="Tests.LoginTest">
         <methods>
-          <include name="verifySubUnitItems"/>
-          <include name="verifyEmployeeID"/>
-          <include name="verifyCheckBoxAll"/>
-          <include name="verifyEmploymentStatus"/>
-          <include name="verifyEditButtons"/>
-          <include name="verifyDeletButton"/>
-          <include name="verifySubUnitList"/>
+          <include name="setupObject"/>
           <include name="tearDown"/>
-          <include name="verifyEmploymentStatusItems"/>
-          <include name="verifySupervisorName"/>
-          <include name="verifySearchFunctin"/>
-          <include name="SetupObject"/>
-          <include name="verifyEmployeeName"/>
-          <include name="verifyaddEmployee"/>
-          <include name="verifyEditButton"/>
-          <include name="verifyFieldDefaltValue"/>
-          <include name="verifyfirstCheckBoxl"/>
+          <include name="verifyLogin"/>
           <include name="setupDriver"/>
         </methods>
-      </class> <!-- Tests.pimTest -->
+      </class> <!-- Tests.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

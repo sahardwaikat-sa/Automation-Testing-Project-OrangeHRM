@@ -164,6 +164,7 @@ public class pimPage {
 
 	// GET ALL ITEMS
 	public boolean getEmpoyeeStatusList() {
+		
 		wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//div[@role='option']")));
 		List<WebElement>listUnit=driver.findElements(By.xpath(" //div[@role='option']"));
         if(listUnit.isEmpty())
@@ -173,6 +174,8 @@ public class pimPage {
 
 	// GET ONE OPTION
 	public boolean getOneitemEmpoyeeStatusList(String Unit) {
+		
+		
 		List<WebElement> listElement = driver.findElements(By.xpath("//div[@role='option']"));
 
 for (WebElement option1 : listElement) {
