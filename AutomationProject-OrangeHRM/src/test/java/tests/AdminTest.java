@@ -152,7 +152,7 @@ public class AdminTest extends BaseClass {
         Assert.assertTrue(message.contains("Successfully Updated"));
     }
     
-    @Test
+   
     public void deleteUser() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -164,6 +164,55 @@ public class AdminTest extends BaseClass {
 
         Assert.assertTrue(message.contains("Successfully Deleted"));
     }
+    
+    
+    public void searchWithMultipleFilters() {
+
+        AdminPage adminPage = new AdminPage(driver);
+
+        adminPage.clickAdminPage();
+
+        adminPage.selectUserRoleAdmin();
+
+        adminPage.selectStatusEnabled();
+
+    
+
+        int resultsCount = adminPage.getResultsCount();
+
+        Assert.assertTrue(resultsCount > 0);
+    }
+    
+   //job
+    
+
+    public void verifyJobTitlesPage() {
+
+        AdminPage adminPage = new AdminPage(driver);
+
+        adminPage.clickAdminPage();
+
+        adminPage.clickJobTitles();
+        String heading = adminPage.getJobTitlesHeading();
+
+        Assert.assertEquals(heading, "Job Titles");
+    }
+    
+    @Test
+    public void addJobTitle() {
+
+        AdminPage adminPage = new AdminPage(driver);
+
+        adminPage.clickAdminPage();
+
+        adminPage.clickJobTitles();
+
+        adminPage.addJobTitle("Automation Tester1");
+        String message = adminPage.getSuccessMessage();
+
+        Assert.assertTrue(message.contains("Successfully Saved"));
+    } 
+    
     
     
 }

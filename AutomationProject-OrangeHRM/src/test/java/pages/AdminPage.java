@@ -49,10 +49,20 @@ By saveButton = By.xpath("//button[@type='submit']");
 By editbutton = By.xpath("//button[@class='oxd-icon-button oxd-table-cell-action-space' and @type='button'] [2]");
 
 By deleteButton = By.xpath("//button[@class='oxd-icon-button oxd-table-cell-action-space' and @type='button'] [1]");
+By jobTitles = By.xpath("//a[text()='Job Titles']");
+By joblist=By.xpath("//span[text()='Job ']");
 
+By jobtext = By.xpath("//h6[normalize-space()='Job Titles']");
 
+By jobTitleAddButton = By.xpath("//button[@type=\"button\" and @class=\"oxd-button oxd-button--medium oxd-button--secondary\"]");
 
+By jobTitleField = By.xpath(
+    "//label[normalize-space()='Job Title']/following::input[1]"
+);
 
+By jobTitleSaveButton = By.xpath(
+    "//button[@type='submit']"
+);
 
     //admin page
     public void clickAdminPage() {
@@ -336,12 +346,49 @@ By deleteButton = By.xpath("//button[@class='oxd-icon-button oxd-table-cell-acti
                 	}
                 	
                 	
+                	public void clickJobTitles() {
+
+                	    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+                	    wait.until(
+                    	        ExpectedConditions.elementToBeClickable(joblist)
+                    	    ).click();
+                    	    
+                	    wait.until(
+                	        ExpectedConditions.elementToBeClickable(jobTitles)
+                	    ).click();
+                	    
+                	    
+                	    
+                	    
+                	    
+                	}       	
+                	
+                	public String getJobTitlesHeading() {
+
+                	    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+                	    return wait.until(
+                	        ExpectedConditions.visibilityOfElementLocated(jobtext)
+                	    ).getText();
+                	}
                 	
                 	
-                	
-                	
-                	
-                	
+                	public void addJobTitle(String title) {
+
+                	    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+                	    wait.until(
+                	        ExpectedConditions.elementToBeClickable(jobTitleAddButton)
+                	    ).click();
+
+                	    wait.until(
+                	        ExpectedConditions.visibilityOfElementLocated(jobTitleField)
+                	    ).sendKeys(title);
+
+                	    wait.until(
+                	        ExpectedConditions.elementToBeClickable(jobTitleSaveButton)
+                	    ).click();
+                	} 	
                 	
     }
     
