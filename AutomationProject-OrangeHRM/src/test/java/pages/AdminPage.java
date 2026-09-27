@@ -46,7 +46,14 @@ public class AdminPage {
      By confirmPassword = By.xpath(
          "//label[text()='Confirm Password']/following::input[1]");
 By saveButton = By.xpath("//button[@type='submit']");
-By editbutton = By.xpath("//button[@class=\"oxd-icon-button oxd-table-cell-action-space\" and @type=\"button\"] [2]");
+By editbutton = By.xpath("//button[@class='oxd-icon-button oxd-table-cell-action-space' and @type='button'] [2]");
+
+By deleteButton = By.xpath("//button[@class='oxd-icon-button oxd-table-cell-action-space' and @type='button'] [1]");
+
+
+
+
+
     //admin page
     public void clickAdminPage() {
     	 WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
@@ -304,7 +311,29 @@ By editbutton = By.xpath("//button[@class=\"oxd-icon-button oxd-table-cell-actio
                 	
                 	
                 	
-                	
+                	public void deleteUser(String usernameValue) {
+
+                	    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+                	    wait.until(
+                	        ExpectedConditions.visibilityOfElementLocated(username)
+                	    ).sendKeys(usernameValue);
+
+                	    wait.until(
+                	        ExpectedConditions.elementToBeClickable(searchButton)
+                	    ).click();
+
+                	    wait.until(
+                	        ExpectedConditions.elementToBeClickable(deleteButton)
+                	    ).click();
+                	    By yesDeleteButton = By.xpath("//button[normalize-space()='Yes, Delete']");
+
+                	    wait.until(
+                	        ExpectedConditions.elementToBeClickable(yesDeleteButton)
+                	    ).click();
+                	    
+                	    
+                	}
                 	
                 	
                 	
