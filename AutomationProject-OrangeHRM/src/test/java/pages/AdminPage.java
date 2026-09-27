@@ -63,8 +63,15 @@ By jobTitleField = By.xpath(
 By jobTitleSaveButton = By.xpath(
     "//button[@type='submit']"
 );
+By editJobTitleButton = By.xpath("//i[contains(@class,'bi-pencil-fill')]/..");
+By jobTitleEditField = By.xpath( "//label[normalize-space()='Job Title']/following::input[1]");
 
-    //admin page
+By deleteJobTitleButton = By.xpath("//i[contains(@class,'bi-trash')]/..");
+
+
+
+
+//admin page
     public void clickAdminPage() {
     	 WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 
@@ -389,6 +396,51 @@ By jobTitleSaveButton = By.xpath(
                 	        ExpectedConditions.elementToBeClickable(jobTitleSaveButton)
                 	    ).click();
                 	} 	
+                	
+                	public void editJobTitle(String oldTitle, String newTitle) {
+
+                	    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+                	    wait.until(
+                	        ExpectedConditions.elementToBeClickable( editJobTitleButton)
+                	    ).click();
+
+                	    WebElement titleField = wait.until(
+                	        ExpectedConditions.visibilityOfElementLocated(jobTitleEditField)
+                	    );
+
+                	    titleField.clear();
+                	    titleField.sendKeys(newTitle);
+
+                	    wait.until(
+                	        ExpectedConditions.elementToBeClickable(jobTitleSaveButton)
+                	    ).click();
+                	}	
+                	
+                	public void deleteJobTitle() {
+
+                	    WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+                	    wait.until(
+                	        ExpectedConditions.elementToBeClickable(deleteJobTitleButton)
+                	    ).click();
+
+                	    By yesDeleteButton =
+                	        By.xpath("//button[normalize-space()='Yes, Delete']");
+
+                	    wait.until(
+                	        ExpectedConditions.elementToBeClickable(yesDeleteButton)
+                	    ).click();
+                	}  	
+                	
+                	
+                	
+                	
+                	
+                	
+                	
+                	
+                	
                 	
     }
     

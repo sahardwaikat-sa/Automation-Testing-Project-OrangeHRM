@@ -198,7 +198,6 @@ public class AdminTest extends BaseClass {
         Assert.assertEquals(heading, "Job Titles");
     }
     
-    @Test
     public void addJobTitle() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -212,6 +211,61 @@ public class AdminTest extends BaseClass {
 
         Assert.assertTrue(message.contains("Successfully Saved"));
     } 
+    
+    
+    
+  
+    public void editJobTitle() {
+
+        AdminPage adminPage = new AdminPage(driver);
+
+        adminPage.clickAdminPage();
+
+        adminPage.clickJobTitles();
+
+        adminPage.editJobTitle(
+            "Automation Tester",
+            "Automation QA Tester"
+        );
+
+        String message = adminPage.getSuccessMessage();
+
+        Assert.assertTrue(message.contains("Successfully Updated"));
+    }
+    
+    
+    
+    @Test
+    public void deleteJobTitle() {
+
+        AdminPage adminPage = new AdminPage(driver);
+
+        adminPage.clickAdminPage();
+
+        adminPage.clickJobTitles();
+
+        adminPage.deleteJobTitle();
+
+        String message = adminPage.getSuccessMessage();
+
+        Assert.assertTrue(message.contains("Successfully Deleted"));
+    } 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
