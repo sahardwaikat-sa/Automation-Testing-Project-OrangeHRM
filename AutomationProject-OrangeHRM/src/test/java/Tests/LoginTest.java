@@ -1,13 +1,22 @@
 package Tests;
 
-import org.testng.Assert;
+
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import BaseTest.baseTest;
+import org.testng.Assert;
+import org.testng.Reporter;
+
+import listener.listener;
 import pages.loginPage;
 
+
+
+
+@Listeners(listener.class)
 public class LoginTest extends baseTest {
 
     loginPage loginObject;
@@ -20,15 +29,15 @@ public class LoginTest extends baseTest {
 
     @Test(dataProvider = "LOGINDATA")
     public void verifyLogin(String username, String password, String expected) {
-
+    	 Reporter.log("start login and validation Credentials");
         loginObject.enterUsername(username);
         loginObject.enterPassword(password);
         loginObject.clickLogin();
-
+        Reporter.log("enter dashboard page ");
         if (expected.equals("true")) {
             Assert.assertTrue(loginObject.openNextPage()); 
             System.out.println(" we are in next page");}
-                   
+                 
         else if (expected.equals("false")) {
             Assert.assertTrue(loginObject.isLoginErrorDisplayed());
             Assert.assertTrue(loginObject.getLoginMessage().contains("Invalid"));
@@ -37,7 +46,7 @@ public class LoginTest extends baseTest {
         else {
         	
         	System.out.println("fields is required");
-        }
+        } 
     }
 
     @DataProvider(name = "LOGINDATA")

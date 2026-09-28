@@ -6,12 +6,17 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 import BaseTest.baseTest;
+import listener.listener;
 import pages.loginPage;
 import pages.pimPage;
 
+
+
+@Listeners(listener.class)
 public class pimTest extends baseTest {
 
 	pimPage PIMObject;

@@ -5,24 +5,13 @@
     <classes>
       <class name="Tests.pimTest">
         <methods>
-          <include name="verifySubUnitItems"/>
-          <include name="verifyEmployeeID"/>
-          <include name="verifyCheckBoxAll"/>
-          <include name="verifyEmploymentStatus"/>
-          <include name="verifyEditButtons"/>
-          <include name="verifyDeletButton"/>
-          <include name="verifySubUnitList"/>
-          <include name="tearDown"/>
-          <include name="verifyEmploymentStatusItems"/>
-          <include name="verifySupervisorName"/>
-          <include name="verifySearchFunctin"/>
+          <include name="verifySubUnitItems" invocation-numbers="1 2 3"/>
           <include name="SetupObject"/>
-          <include name="verifyEmployeeName"/>
-          <include name="verifyaddEmployee"/>
-          <include name="verifyEditButton"/>
-          <include name="verifyFieldDefaltValue"/>
-          <include name="verifyfirstCheckBoxl"/>
+          <include name="verifyDeletButton"/>
+          <include name="tearDown"/>
+          <include name="verifyEmploymentStatusItems" invocation-numbers="0 2 3 4"/>
           <include name="setupDriver"/>
+          <include name="verifySupervisorName"/>
         </methods>
       </class> <!-- Tests.pimTest -->
     </classes>
