@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="7" total="13" passed="0" failed="1" skipped="5">
+<testng-results ignored="0" total="44" passed="33" failed="8" skipped="3">
   <reporter-output>
     <line>
       <![CDATA[open the Browser]]>
@@ -13,13 +13,253 @@
     <line>
       <![CDATA[maximize the Browser]]>
     </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
   </reporter-output>
-  <suite started-at="2026-09-28T08:54:54 EET" name="Default suite" finished-at="2026-09-28T08:55:43 EET" duration-ms="48621">
+  <suite started-at="2026-09-28T09:37:17 EET" name="Default suite" finished-at="2026-09-28T09:53:03 EET" duration-ms="945466">
     <groups>
     </groups>
-    <test started-at="2026-09-28T08:54:54 EET" name="Default test" finished-at="2026-09-28T08:55:43 EET" duration-ms="48621">
-      <class name="Tests.leaveTest">
-        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:54:54 EET" name="setupDriver" finished-at="2026-09-28T08:55:00 EET" duration-ms="6185" status="PASS">
+    <test started-at="2026-09-28T09:37:17 EET" name="Default test" finished-at="2026-09-28T09:53:03 EET" duration-ms="945466">
+      <class name="Tests.pimTest">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:37:17 EET" name="setupDriver" finished-at="2026-09-28T09:37:25 EET" duration-ms="7387" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[open the Browser]]>
@@ -29,50 +269,407 @@
             </line>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:00 EET" name="SetupObject" finished-at="2026-09-28T08:55:13 EET" duration-ms="12830" status="PASS">
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:37:25 EET" name="SetupObject" finished-at="2026-09-28T09:38:01 EET" duration-ms="36389" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetupObject -->
-        <test-method signature="verifyLeavedate(java.lang.String,java.lang.String,boolean)[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:13 EET" name="verifyLeavedate" data-provider="checkdate" finished-at="2026-09-28T08:55:13 EET" duration-ms="100" status="FAIL">
+        <test-method signature="verifyAddEmployeeData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:38:01 EET" name="verifyAddEmployeeData" data-provider="ADDEMPLOYEEDAAT " finished-at="2026-09-28T09:38:07 EET" duration-ms="6176" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[1 ]]>
+                <![CDATA[ssss]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[ 3 ]]>
+                <![CDATA[fhhf]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[true]]>
+                <![CDATA[gdgcg]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9001]]>
               </value>
             </param>
           </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployeeData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:38:07 EET" name="tearDown" finished-at="2026-09-28T09:38:10 EET" duration-ms="2355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:38:10 EET" name="setupDriver" finished-at="2026-09-28T09:38:12 EET" duration-ms="2238" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:38:12 EET" name="SetupObject" finished-at="2026-09-28T09:38:26 EET" duration-ms="14269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyAddEmployeeData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:38:26 EET" name="verifyAddEmployeeData" data-provider="ADDEMPLOYEEDAAT " finished-at="2026-09-28T09:38:33 EET" duration-ms="6900" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ahmed]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ali]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9002]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployeeData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:38:33 EET" name="tearDown" finished-at="2026-09-28T09:38:36 EET" duration-ms="2921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:38:36 EET" name="setupDriver" finished-at="2026-09-28T09:38:40 EET" duration-ms="3710" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:38:40 EET" name="SetupObject" finished-at="2026-09-28T09:39:05 EET" duration-ms="24822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyAddEmployeeData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:39:05 EET" name="verifyAddEmployeeData" data-provider="ADDEMPLOYEEDAAT " finished-at="2026-09-28T09:39:18 EET" duration-ms="13807" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sara]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fhhf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gdgcg]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9003]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployeeData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:39:18 EET" name="tearDown" finished-at="2026-09-28T09:39:19 EET" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:39:19 EET" name="setupDriver" finished-at="2026-09-28T09:39:21 EET" duration-ms="2285" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:39:21 EET" name="SetupObject" finished-at="2026-09-28T09:39:47 EET" duration-ms="26005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyAddEmployeeData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:39:47 EET" name="verifyAddEmployeeData" data-provider="ADDEMPLOYEEDAAT " finished-at="2026-09-28T09:39:59 EET" duration-ms="11207" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ssss]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[44]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gdgcg]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9004]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployeeData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:39:59 EET" name="tearDown" finished-at="2026-09-28T09:40:01 EET" duration-ms="2180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:40:01 EET" name="setupDriver" finished-at="2026-09-28T09:40:03 EET" duration-ms="2221" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:40:03 EET" name="SetupObject" finished-at="2026-09-28T09:40:18 EET" duration-ms="14967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyAddEmployeeData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:40:18 EET" name="verifyAddEmployeeData" data-provider="ADDEMPLOYEEDAAT " finished-at="2026-09-28T09:40:24 EET" duration-ms="6583" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ssss]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fhhf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[44]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9005]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployeeData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:40:24 EET" name="tearDown" finished-at="2026-09-28T09:40:25 EET" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:40:25 EET" name="setupDriver" finished-at="2026-09-28T09:40:27 EET" duration-ms="2513" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:40:27 EET" name="SetupObject" finished-at="2026-09-28T09:40:40 EET" duration-ms="12882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyAddEmployeeData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:40:40 EET" name="verifyAddEmployeeData" data-provider="ADDEMPLOYEEDAAT " finished-at="2026-09-28T09:40:47 EET" duration-ms="6315" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nour]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fhhf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mostafa]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9006]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployeeData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:40:47 EET" name="tearDown" finished-at="2026-09-28T09:40:48 EET" duration-ms="1158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:40:48 EET" name="setupDriver" finished-at="2026-09-28T09:40:50 EET" duration-ms="2455" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:40:50 EET" name="SetupObject" finished-at="2026-09-28T09:41:13 EET" duration-ms="22296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyAddEmployeeData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:41:13 EET" name="verifyAddEmployeeData" data-provider="ADDEMPLOYEEDAAT " finished-at="2026-09-28T09:41:22 EET" duration-ms="9077" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ssss]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gdgcg]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9007]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployeeData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:41:22 EET" name="tearDown" finished-at="2026-09-28T09:41:25 EET" duration-ms="3135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:41:25 EET" name="setupDriver" finished-at="2026-09-28T09:41:29 EET" duration-ms="4054" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:41:29 EET" name="SetupObject" finished-at="2026-09-28T09:41:44 EET" duration-ms="15344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyAddEmployeeData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:41:44 EET" name="verifyAddEmployeeData" data-provider="ADDEMPLOYEEDAAT " finished-at="2026-09-28T09:41:52 EET" duration-ms="7750" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mohammed]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Yousef]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9008]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployeeData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:41:52 EET" name="tearDown" finished-at="2026-09-28T09:41:53 EET" duration-ms="1468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:41:53 EET" name="setupDriver" finished-at="2026-09-28T09:41:56 EET" duration-ms="2643" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:41:56 EET" name="SetupObject" finished-at="2026-09-28T09:42:13 EET" duration-ms="17431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyCheckBoxAll()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:42:13 EET" name="verifyCheckBoxAll" finished-at="2026-09-28T09:42:15 EET" duration-ms="1213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckBoxAll -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:42:15 EET" name="tearDown" finished-at="2026-09-28T09:42:16 EET" duration-ms="1179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:42:16 EET" name="setupDriver" finished-at="2026-09-28T09:42:19 EET" duration-ms="3405" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:42:19 EET" name="SetupObject" finished-at="2026-09-28T09:42:37 EET" duration-ms="17311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyDeletButton()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:42:37 EET" name="verifyDeletButton" finished-at="2026-09-28T09:42:37 EET" duration-ms="32" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='From Date']/following::div[1]"}
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Amelia ']/following::button[2]"}
   (Session info: chrome=153.0.8010.53)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: '4.20.0', revision: '866c76ca80'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [2ab9a213bfd13f8fd1f464efbd038de0, findElement {value=//label[text()='From Date']/following::div[1], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.53, chrome: {chromedriverVersion: 153.0.8010.52 (78e5e45d4bb4..., userDataDir: C:\Users\SAHARD~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53995}, goog:processID: 19160, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53995/devtoo..., se:cdpVersion: 153.0.8010.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 2ab9a213bfd13f8fd1f464efbd038de0]]>
+Command: [3dac7d9580b75da0a50acd2f60074a99, findElement {value=//div[text()='Amelia ']/following::button[2], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.53, chrome: {chromedriverVersion: 153.0.8010.52 (78e5e45d4bb4..., userDataDir: C:\Users\SAHARD~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65431}, goog:processID: 25140, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65431/devtoo..., se:cdpVersion: 153.0.8010.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3dac7d9580b75da0a50acd2f60074a99]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()='From Date']/following::div[1]"}
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Amelia ']/following::button[2]"}
   (Session info: chrome=153.0.8010.53)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: '4.20.0', revision: '866c76ca80'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [2ab9a213bfd13f8fd1f464efbd038de0, findElement {value=//label[text()='From Date']/following::div[1], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.53, chrome: {chromedriverVersion: 153.0.8010.52 (78e5e45d4bb4..., userDataDir: C:\Users\SAHARD~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53995}, goog:processID: 19160, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53995/devtoo..., se:cdpVersion: 153.0.8010.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 2ab9a213bfd13f8fd1f464efbd038de0
+Command: [3dac7d9580b75da0a50acd2f60074a99, findElement {value=//div[text()='Amelia ']/following::button[2], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.53, chrome: {chromedriverVersion: 153.0.8010.52 (78e5e45d4bb4..., userDataDir: C:\Users\SAHARD~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65431}, goog:processID: 25140, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65431/devtoo..., se:cdpVersion: 153.0.8010.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3dac7d9580b75da0a50acd2f60074a99
 at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
 at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
 at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
@@ -87,8 +684,8 @@ at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(Elemen
 at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at pages.leavePage.fromleveDateSelect(leavePage.java:103)
-at Tests.leaveTest.verifyLeavedate(leaveTest.java:129)
+at pages.pimPage.clickDeleteButton(pimPage.java:339)
+at Tests.pimTest.verifyDeletButton(pimTest.java:295)
 at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
@@ -120,12 +717,12 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           </exception> <!-- org.openqa.selenium.NoSuchElementException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLeavedate -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:13 EET" name="tearDown" finished-at="2026-09-28T08:55:16 EET" duration-ms="2416" status="PASS">
+        </test-method> <!-- verifyDeletButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:42:37 EET" name="tearDown" finished-at="2026-09-28T09:42:38 EET" duration-ms="1253" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:16 EET" name="setupDriver" finished-at="2026-09-28T08:55:18 EET" duration-ms="2323" status="PASS">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:42:38 EET" name="setupDriver" finished-at="2026-09-28T09:42:40 EET" duration-ms="2429" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[open the Browser]]>
@@ -135,520 +732,1210 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
             </line>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:18 EET" name="SetupObject" finished-at="2026-09-28T08:55:43 EET" duration-ms="24473" status="FAIL">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
-at pages.loginPage.enterUsername(loginPage.java:29)
-at Tests.leaveTest.SetupObject(leaveTest.java:82)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
-at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=153.0.8010.53)
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [a5c60b595bf7866a62db200ea82416ec, findElement {value=username, using=name}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.53, chrome: {chromedriverVersion: 153.0.8010.52 (78e5e45d4bb4..., userDataDir: C:\Users\SAHARD~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54099}, goog:processID: 17928, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54099/devtoo..., se:cdpVersion: 153.0.8010.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: a5c60b595bf7866a62db200ea82416ec
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:194)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:190)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
-... 32 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:42:40 EET" name="SetupObject" finished-at="2026-09-28T09:42:57 EET" duration-ms="16668" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetupObject -->
-        <test-method signature="verifyLeavedate(java.lang.String,java.lang.String,boolean)[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="verifyLeavedate" data-provider="checkdate" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[ 15 ]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[ 7 ]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[false]]>
-              </value>
-            </param>
-          </params>
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
-at pages.loginPage.enterUsername(loginPage.java:29)
-at Tests.leaveTest.SetupObject(leaveTest.java:82)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
-at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=153.0.8010.53)
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [a5c60b595bf7866a62db200ea82416ec, findElement {value=username, using=name}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.53, chrome: {chromedriverVersion: 153.0.8010.52 (78e5e45d4bb4..., userDataDir: C:\Users\SAHARD~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54099}, goog:processID: 17928, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54099/devtoo..., se:cdpVersion: 153.0.8010.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: a5c60b595bf7866a62db200ea82416ec
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:194)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:190)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
-... 32 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+        <test-method signature="verifyEditButton()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:42:57 EET" name="verifyEditButton" finished-at="2026-09-28T09:42:58 EET" duration-ms="1216" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLeavedate -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="tearDown" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        </test-method> <!-- verifyEditButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:42:58 EET" name="tearDown" finished-at="2026-09-28T09:42:59 EET" duration-ms="1051" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="setupDriver" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:42:59 EET" name="setupDriver" finished-at="2026-09-28T09:43:02 EET" duration-ms="2323" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="SetupObject" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:43:02 EET" name="SetupObject" finished-at="2026-09-28T09:43:19 EET" duration-ms="17366" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetupObject -->
-        <test-method signature="verifyLeavedate(java.lang.String,java.lang.String,boolean)[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="verifyLeavedate" data-provider="checkdate" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        <test-method signature="verifyEditButtons()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:43:19 EET" name="verifyEditButtons" finished-at="2026-09-28T09:43:21 EET" duration-ms="1689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditButtons -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:43:21 EET" name="tearDown" finished-at="2026-09-28T09:43:24 EET" duration-ms="3799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:43:24 EET" name="setupDriver" finished-at="2026-09-28T09:43:27 EET" duration-ms="2240" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:43:27 EET" name="SetupObject" finished-at="2026-09-28T09:43:41 EET" duration-ms="14018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmploymentStatus()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:43:41 EET" name="verifyEmploymentStatus" finished-at="2026-09-28T09:43:41 EET" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmploymentStatus -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:43:41 EET" name="tearDown" finished-at="2026-09-28T09:43:41 EET" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:43:41 EET" name="setupDriver" finished-at="2026-09-28T09:43:44 EET" duration-ms="3236" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:43:44 EET" name="SetupObject" finished-at="2026-09-28T09:44:04 EET" duration-ms="19365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmploymentStatusItems(java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:44:04 EET" name="verifyEmploymentStatusItems" data-provider="EmploymentStatusItems" finished-at="2026-09-28T09:44:04 EET" duration-ms="190" status="FAIL">
           <params>
             <param index="0">
               <value>
-                <![CDATA[ 1 ]]>
+                <![CDATA[ Freelance]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at Tests.pimTest.verifyEmploymentStatusItems(pimTest.java:254)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmploymentStatusItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:44:04 EET" name="tearDown" finished-at="2026-09-28T09:44:06 EET" duration-ms="1925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:44:06 EET" name="setupDriver" finished-at="2026-09-28T09:44:10 EET" duration-ms="4022" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:44:10 EET" name="SetupObject" finished-at="2026-09-28T09:44:23 EET" duration-ms="13575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmploymentStatusItems(java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:44:23 EET" name="verifyEmploymentStatusItems" data-provider="EmploymentStatusItems" finished-at="2026-09-28T09:44:24 EET" duration-ms="663" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Full-Time Contract]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmploymentStatusItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:44:24 EET" name="tearDown" finished-at="2026-09-28T09:44:25 EET" duration-ms="1374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:44:25 EET" name="setupDriver" finished-at="2026-09-28T09:44:31 EET" duration-ms="5680" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:44:31 EET" name="SetupObject" finished-at="2026-09-28T09:44:48 EET" duration-ms="17178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmploymentStatusItems(java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:44:48 EET" name="verifyEmploymentStatusItems" data-provider="EmploymentStatusItems" finished-at="2026-09-28T09:44:48 EET" duration-ms="142" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Full-Time Permanent]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at Tests.pimTest.verifyEmploymentStatusItems(pimTest.java:254)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmploymentStatusItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:44:49 EET" name="tearDown" finished-at="2026-09-28T09:44:50 EET" duration-ms="1926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:44:50 EET" name="setupDriver" finished-at="2026-09-28T09:44:53 EET" duration-ms="2544" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:44:53 EET" name="SetupObject" finished-at="2026-09-28T09:45:10 EET" duration-ms="16598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmploymentStatusItems(java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:45:10 EET" name="verifyEmploymentStatusItems" data-provider="EmploymentStatusItems" finished-at="2026-09-28T09:45:10 EET" duration-ms="136" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Full-Time Probation]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at Tests.pimTest.verifyEmploymentStatusItems(pimTest.java:254)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmploymentStatusItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:45:10 EET" name="tearDown" finished-at="2026-09-28T09:45:11 EET" duration-ms="1562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:45:11 EET" name="setupDriver" finished-at="2026-09-28T09:45:14 EET" duration-ms="2568" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:45:14 EET" name="SetupObject" finished-at="2026-09-28T09:45:30 EET" duration-ms="16079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmploymentStatusItems(java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:45:30 EET" name="verifyEmploymentStatusItems" data-provider="EmploymentStatusItems" finished-at="2026-09-28T09:45:30 EET" duration-ms="151" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Part-Time Contract]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at Tests.pimTest.verifyEmploymentStatusItems(pimTest.java:254)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmploymentStatusItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:45:30 EET" name="tearDown" finished-at="2026-09-28T09:45:31 EET" duration-ms="923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:45:31 EET" name="setupDriver" finished-at="2026-09-28T09:45:35 EET" duration-ms="3747" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:45:35 EET" name="SetupObject" finished-at="2026-09-28T09:45:50 EET" duration-ms="15142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyFieldDefaltValue()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:45:50 EET" name="verifyFieldDefaltValue" finished-at="2026-09-28T09:45:50 EET" duration-ms="351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFieldDefaltValue -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:45:50 EET" name="tearDown" finished-at="2026-09-28T09:45:51 EET" duration-ms="739" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:45:51 EET" name="setupDriver" finished-at="2026-09-28T09:45:54 EET" duration-ms="2664" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:45:54 EET" name="SetupObject" finished-at="2026-09-28T09:46:08 EET" duration-ms="14768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifySearchFunctin()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:46:08 EET" name="verifySearchFunctin" finished-at="2026-09-28T09:46:09 EET" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchFunctin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:46:09 EET" name="tearDown" finished-at="2026-09-28T09:46:10 EET" duration-ms="920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:46:10 EET" name="setupDriver" finished-at="2026-09-28T09:46:13 EET" duration-ms="2461" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:46:13 EET" name="SetupObject" finished-at="2026-09-28T09:46:28 EET" duration-ms="15302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifySubUnitItems(java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:46:28 EET" name="verifySubUnitItems" data-provider="SubUnit" finished-at="2026-09-28T09:46:28 EET" duration-ms="404" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Administration]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubUnitItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:46:28 EET" name="tearDown" finished-at="2026-09-28T09:46:29 EET" duration-ms="400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:46:29 EET" name="setupDriver" finished-at="2026-09-28T09:46:32 EET" duration-ms="3256" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:46:32 EET" name="SetupObject" finished-at="2026-09-28T09:46:46 EET" duration-ms="14289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifySubUnitItems(java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:46:46 EET" name="verifySubUnitItems" data-provider="SubUnit" finished-at="2026-09-28T09:46:46 EET" duration-ms="237" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Engineering]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at Tests.pimTest.verifySubUnitItems(pimTest.java:236)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubUnitItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:46:46 EET" name="tearDown" finished-at="2026-09-28T09:46:47 EET" duration-ms="829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:46:47 EET" name="setupDriver" finished-at="2026-09-28T09:46:50 EET" duration-ms="2309" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:46:50 EET" name="SetupObject" finished-at="2026-09-28T09:47:06 EET" duration-ms="16659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifySubUnitItems(java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:47:06 EET" name="verifySubUnitItems" data-provider="SubUnit" finished-at="2026-09-28T09:47:06 EET" duration-ms="171" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Development]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at Tests.pimTest.verifySubUnitItems(pimTest.java:236)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubUnitItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:47:06 EET" name="tearDown" finished-at="2026-09-28T09:47:07 EET" duration-ms="555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:47:07 EET" name="setupDriver" finished-at="2026-09-28T09:47:10 EET" duration-ms="2595" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:47:10 EET" name="SetupObject" finished-at="2026-09-28T09:47:29 EET" duration-ms="19519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifySubUnitItems(java.lang.String)[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:47:29 EET" name="verifySubUnitItems" data-provider="SubUnit" finished-at="2026-09-28T09:47:29 EET" duration-ms="243" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Quality Assurance]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at Tests.pimTest.verifySubUnitItems(pimTest.java:236)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubUnitItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:47:29 EET" name="tearDown" finished-at="2026-09-28T09:47:30 EET" duration-ms="1078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:47:30 EET" name="setupDriver" finished-at="2026-09-28T09:47:34 EET" duration-ms="3073" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:47:34 EET" name="SetupObject" finished-at="2026-09-28T09:47:52 EET" duration-ms="18544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifySubUnitList()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:47:52 EET" name="verifySubUnitList" finished-at="2026-09-28T09:47:52 EET" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubUnitList -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:47:52 EET" name="tearDown" finished-at="2026-09-28T09:47:53 EET" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:47:53 EET" name="setupDriver" finished-at="2026-09-28T09:47:55 EET" duration-ms="2559" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:47:55 EET" name="SetupObject" finished-at="2026-09-28T09:48:11 EET" duration-ms="16018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyaddEmployee()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:48:11 EET" name="verifyaddEmployee" finished-at="2026-09-28T09:48:13 EET" duration-ms="1709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddEmployee -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:48:13 EET" name="tearDown" finished-at="2026-09-28T09:48:14 EET" duration-ms="854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:48:14 EET" name="setupDriver" finished-at="2026-09-28T09:48:17 EET" duration-ms="2912" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:48:17 EET" name="SetupObject" finished-at="2026-09-28T09:48:29 EET" duration-ms="12729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyfirstCheckBoxl()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:48:29 EET" name="verifyfirstCheckBoxl" finished-at="2026-09-28T09:48:31 EET" duration-ms="1208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyfirstCheckBoxl -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:48:31 EET" name="tearDown" finished-at="2026-09-28T09:48:31 EET" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:48:31 EET" name="setupDriver" finished-at="2026-09-28T09:48:33 EET" duration-ms="2370" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:48:33 EET" name="SetupObject" finished-at="2026-09-28T09:48:58 EET" duration-ms="24653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmployeeName(java.lang.String,boolean)[pri:1, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:48:58 EET" name="verifyEmployeeName" data-provider="USERNAME" finished-at="2026-09-28T09:49:00 EET" duration-ms="1599" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
               </value>
             </param>
             <param index="1">
-              <value>
-                <![CDATA[ 1 ]]>
-              </value>
-            </param>
-            <param index="2">
               <value>
                 <![CDATA[true]]>
               </value>
             </param>
           </params>
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
-at pages.loginPage.enterUsername(loginPage.java:29)
-at Tests.leaveTest.SetupObject(leaveTest.java:82)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
-at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=153.0.8010.53)
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [a5c60b595bf7866a62db200ea82416ec, findElement {value=username, using=name}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.53, chrome: {chromedriverVersion: 153.0.8010.52 (78e5e45d4bb4..., userDataDir: C:\Users\SAHARD~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54099}, goog:processID: 17928, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54099/devtoo..., se:cdpVersion: 153.0.8010.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: a5c60b595bf7866a62db200ea82416ec
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:194)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:190)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
-... 32 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLeavedate -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="tearDown" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        </test-method> <!-- verifyEmployeeName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:49:00 EET" name="tearDown" finished-at="2026-09-28T09:49:02 EET" duration-ms="2192" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="setupDriver" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:49:02 EET" name="setupDriver" finished-at="2026-09-28T09:49:05 EET" duration-ms="3500" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="SetupObject" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:49:05 EET" name="SetupObject" finished-at="2026-09-28T09:49:26 EET" duration-ms="20627" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetupObject -->
-        <test-method signature="verifyLeavedate(java.lang.String,java.lang.String,boolean)[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="verifyLeavedate" data-provider="checkdate" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        <test-method signature="verifyEmployeeName(java.lang.String,boolean)[pri:1, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:49:26 EET" name="verifyEmployeeName" data-provider="USERNAME" finished-at="2026-09-28T09:49:28 EET" duration-ms="1949" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[  ]]>
+                <![CDATA[AHAMD]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[ 11 ]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[false]]>
+                <![CDATA[true]]>
               </value>
             </param>
           </params>
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
-at pages.loginPage.enterUsername(loginPage.java:29)
-at Tests.leaveTest.SetupObject(leaveTest.java:82)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
-at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=153.0.8010.53)
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [a5c60b595bf7866a62db200ea82416ec, findElement {value=username, using=name}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.53, chrome: {chromedriverVersion: 153.0.8010.52 (78e5e45d4bb4..., userDataDir: C:\Users\SAHARD~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54099}, goog:processID: 17928, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54099/devtoo..., se:cdpVersion: 153.0.8010.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: a5c60b595bf7866a62db200ea82416ec
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:194)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:190)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
-... 32 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLeavedate -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="tearDown" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        </test-method> <!-- verifyEmployeeName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:49:28 EET" name="tearDown" finished-at="2026-09-28T09:49:29 EET" duration-ms="734" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="setupDriver" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:49:29 EET" name="setupDriver" finished-at="2026-09-28T09:49:31 EET" duration-ms="1889" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="SetupObject" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:49:31 EET" name="SetupObject" finished-at="2026-09-28T09:49:47 EET" duration-ms="16168" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetupObject -->
-        <test-method signature="verifyLeavedate(java.lang.String,java.lang.String,boolean)[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="verifyLeavedate" data-provider="checkdate" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        <test-method signature="verifyEmployeeName(java.lang.String,boolean)[pri:1, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:49:47 EET" name="verifyEmployeeName" data-provider="USERNAME" finished-at="2026-09-28T09:49:48 EET" duration-ms="1537" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[ 11 ]]>
+                <![CDATA[ghy]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[  ]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[false]]>
+                <![CDATA[true]]>
               </value>
             </param>
           </params>
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
-at pages.loginPage.enterUsername(loginPage.java:29)
-at Tests.leaveTest.SetupObject(leaveTest.java:82)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
-at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
-at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=153.0.8010.53)
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [a5c60b595bf7866a62db200ea82416ec, findElement {value=username, using=name}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.53, chrome: {chromedriverVersion: 153.0.8010.52 (78e5e45d4bb4..., userDataDir: C:\Users\SAHARD~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54099}, goog:processID: 17928, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54099/devtoo..., se:cdpVersion: 153.0.8010.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: a5c60b595bf7866a62db200ea82416ec
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:194)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:190)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
-... 32 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLeavedate -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="tearDown" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        </test-method> <!-- verifyEmployeeName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:49:48 EET" name="tearDown" finished-at="2026-09-28T09:49:50 EET" duration-ms="1792" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="setupDriver" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:49:50 EET" name="setupDriver" finished-at="2026-09-28T09:49:52 EET" duration-ms="2219" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="SetupObject" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:49:52 EET" name="SetupObject" finished-at="2026-09-28T09:50:07 EET" duration-ms="15110" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetupObject -->
-        <test-method signature="verifyLeavedate(java.lang.String,java.lang.String,boolean)[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="verifyLeavedate" data-provider="checkdate" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        <test-method signature="verifyEmployeeName(java.lang.String,boolean)[pri:1, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:07 EET" name="verifyEmployeeName" data-provider="USERNAME" finished-at="2026-09-28T09:50:08 EET" duration-ms="750" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[ -1 ]]>
+                <![CDATA[123]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[ 1 ]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[false]]>
+                <![CDATA[true]]>
               </value>
             </param>
           </params>
-          <exception class="org.openqa.selenium.TimeoutException">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmployeeName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:08 EET" name="tearDown" finished-at="2026-09-28T09:50:09 EET" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:09 EET" name="setupDriver" finished-at="2026-09-28T09:50:11 EET" duration-ms="2290" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:11 EET" name="SetupObject" finished-at="2026-09-28T09:50:22 EET" duration-ms="10757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmployeeName(java.lang.String,boolean)[pri:1, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:22 EET" name="verifyEmployeeName" data-provider="USERNAME" finished-at="2026-09-28T09:50:23 EET" duration-ms="917" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@#@**]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmployeeName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:23 EET" name="tearDown" finished-at="2026-09-28T09:50:23 EET" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:23 EET" name="setupDriver" finished-at="2026-09-28T09:50:26 EET" duration-ms="3432" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:26 EET" name="SetupObject" finished-at="2026-09-28T09:50:40 EET" duration-ms="13342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmployeeID(java.lang.String,boolean)[pri:2, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:40 EET" name="verifyEmployeeID" data-provider="USERID" finished-at="2026-09-28T09:50:41 EET" duration-ms="737" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmployeeID -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:41 EET" name="tearDown" finished-at="2026-09-28T09:50:41 EET" duration-ms="514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:41 EET" name="setupDriver" finished-at="2026-09-28T09:50:43 EET" duration-ms="2217" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:43 EET" name="SetupObject" finished-at="2026-09-28T09:50:53 EET" duration-ms="9319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmployeeID(java.lang.String,boolean)[pri:2, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:53 EET" name="verifyEmployeeID" data-provider="USERID" finished-at="2026-09-28T09:50:54 EET" duration-ms="1010" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AHAMD]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmployeeID -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:54 EET" name="tearDown" finished-at="2026-09-28T09:50:54 EET" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:54 EET" name="setupDriver" finished-at="2026-09-28T09:50:59 EET" duration-ms="4683" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:50:59 EET" name="SetupObject" finished-at="2026-09-28T09:51:07 EET" duration-ms="8763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmployeeID(java.lang.String,boolean)[pri:2, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:07 EET" name="verifyEmployeeID" data-provider="USERID" finished-at="2026-09-28T09:51:08 EET" duration-ms="967" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ghy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmployeeID -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:08 EET" name="tearDown" finished-at="2026-09-28T09:51:09 EET" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:09 EET" name="setupDriver" finished-at="2026-09-28T09:51:11 EET" duration-ms="1938" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:11 EET" name="SetupObject" finished-at="2026-09-28T09:51:22 EET" duration-ms="11151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmployeeID(java.lang.String,boolean)[pri:2, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:22 EET" name="verifyEmployeeID" data-provider="USERID" finished-at="2026-09-28T09:51:24 EET" duration-ms="2637" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmployeeID -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:24 EET" name="tearDown" finished-at="2026-09-28T09:51:25 EET" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:25 EET" name="setupDriver" finished-at="2026-09-28T09:51:27 EET" duration-ms="2015" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:27 EET" name="SetupObject" finished-at="2026-09-28T09:51:37 EET" duration-ms="10434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmployeeID(java.lang.String,boolean)[pri:2, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:37 EET" name="verifyEmployeeID" data-provider="USERID" finished-at="2026-09-28T09:51:38 EET" duration-ms="940" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@#@**]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmployeeID -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:38 EET" name="tearDown" finished-at="2026-09-28T09:51:38 EET" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:38 EET" name="setupDriver" finished-at="2026-09-28T09:51:42 EET" duration-ms="3772" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:42 EET" name="SetupObject" finished-at="2026-09-28T09:51:52 EET" duration-ms="10198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmployeeID(java.lang.String,boolean)[pri:2, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:52 EET" name="verifyEmployeeID" data-provider="USERID" finished-at="2026-09-28T09:51:53 EET" duration-ms="744" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[999999999]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmployeeID -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:53 EET" name="tearDown" finished-at="2026-09-28T09:51:53 EET" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:53 EET" name="setupDriver" finished-at="2026-09-28T09:51:55 EET" duration-ms="1912" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:51:55 EET" name="SetupObject" finished-at="2026-09-28T09:52:06 EET" duration-ms="10960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifyEmployeeID(java.lang.String,boolean)[pri:2, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:52:06 EET" name="verifyEmployeeID" data-provider="USERID" finished-at="2026-09-28T09:52:07 EET" duration-ms="800" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmployeeID -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:52:07 EET" name="tearDown" finished-at="2026-09-28T09:52:07 EET" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:52:07 EET" name="setupDriver" finished-at="2026-09-28T09:52:09 EET" duration-ms="2075" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:52:09 EET" name="SetupObject" finished-at="2026-09-28T09:52:19 EET" duration-ms="9520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifySupervisorName(java.lang.String,boolean)[pri:3, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:52:19 EET" name="verifySupervisorName" data-provider="USERNAME" finished-at="2026-09-28T09:52:20 EET" duration-ms="948" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySupervisorName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:52:20 EET" name="tearDown" finished-at="2026-09-28T09:52:20 EET" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:52:20 EET" name="setupDriver" finished-at="2026-09-28T09:52:23 EET" duration-ms="2225" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:52:23 EET" name="SetupObject" finished-at="2026-09-28T09:52:33 EET" duration-ms="10203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifySupervisorName(java.lang.String,boolean)[pri:3, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:52:33 EET" name="verifySupervisorName" data-provider="USERNAME" finished-at="2026-09-28T09:52:34 EET" duration-ms="793" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AHAMD]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySupervisorName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:52:34 EET" name="tearDown" finished-at="2026-09-28T09:52:34 EET" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:52:34 EET" name="setupDriver" finished-at="2026-09-28T09:52:36 EET" duration-ms="2263" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:52:36 EET" name="SetupObject" finished-at="2026-09-28T09:53:03 EET" duration-ms="26622" status="FAIL">
+          <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)]]>
+              <![CDATA[Login failed expected [true] but found [false]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.name: username (tried for 20 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
-at pages.loginPage.enterUsername(loginPage.java:29)
-at Tests.leaveTest.SetupObject(leaveTest.java:82)
+              <![CDATA[java.lang.AssertionError: Login failed expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at Tests.pimTest.SetupObject(pimTest.java:113)
 at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
@@ -679,44 +1966,218 @@ at org.testng.TestNG.run(TestNG.java:1079)
 at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
 at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
-Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=153.0.8010.53)
-Build info: version: '4.20.0', revision: '866c76ca80'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.12'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [a5c60b595bf7866a62db200ea82416ec, findElement {value=username, using=name}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.53, chrome: {chromedriverVersion: 153.0.8010.52 (78e5e45d4bb4..., userDataDir: C:\Users\SAHARD~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54099}, goog:processID: 17928, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54099/devtoo..., se:cdpVersion: 153.0.8010.53, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: a5c60b595bf7866a62db200ea82416ec
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:194)
-at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:190)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
-... 32 more
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyLeavedate -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.leaveTest@776aec5c]" started-at="2026-09-28T08:55:43 EET" name="tearDown" finished-at="2026-09-28T08:55:43 EET" duration-ms="0" status="SKIP">
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifySupervisorName(java.lang.String,boolean)[pri:3, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:53:03 EET" name="verifySupervisorName" data-provider="USERNAME" finished-at="2026-09-28T09:53:03 EET" duration-ms="0" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ghy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Login failed expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Login failed expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at Tests.pimTest.SetupObject(pimTest.java:113)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySupervisorName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:53:03 EET" name="tearDown" finished-at="2026-09-28T09:53:03 EET" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Tests.leaveTest -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:53:03 EET" name="setupDriver" finished-at="2026-09-28T09:53:03 EET" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:53:03 EET" name="SetupObject" finished-at="2026-09-28T09:53:03 EET" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifySupervisorName(java.lang.String,boolean)[pri:3, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:53:03 EET" name="verifySupervisorName" data-provider="USERNAME" finished-at="2026-09-28T09:53:03 EET" duration-ms="0" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Login failed expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Login failed expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at Tests.pimTest.SetupObject(pimTest.java:113)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySupervisorName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:53:03 EET" name="tearDown" finished-at="2026-09-28T09:53:03 EET" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:53:03 EET" name="setupDriver" finished-at="2026-09-28T09:53:03 EET" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:53:03 EET" name="SetupObject" finished-at="2026-09-28T09:53:03 EET" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupObject -->
+        <test-method signature="verifySupervisorName(java.lang.String,boolean)[pri:3, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:53:03 EET" name="verifySupervisorName" data-provider="USERNAME" finished-at="2026-09-28T09:53:03 EET" duration-ms="0" status="SKIP">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@#@**]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Login failed expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Login failed expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1590)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at Tests.pimTest.SetupObject(pimTest.java:113)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:836)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:601)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySupervisorName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.pimTest@4afcd809]" started-at="2026-09-28T09:53:03 EET" name="tearDown" finished-at="2026-09-28T09:53:03 EET" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.pimTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

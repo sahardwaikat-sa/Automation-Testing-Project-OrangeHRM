@@ -3,14 +3,17 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Tests.leaveTest">
+      <class name="Tests.pimTest">
         <methods>
+          <include name="verifySubUnitItems" invocation-numbers="1 2 3"/>
           <include name="SetupObject"/>
+          <include name="verifyDeletButton"/>
           <include name="tearDown"/>
+          <include name="verifyEmploymentStatusItems" invocation-numbers="0 2 3 4"/>
           <include name="setupDriver"/>
-          <include name="verifyLeavedate" invocation-numbers="0"/>
+          <include name="verifySupervisorName"/>
         </methods>
-      </class> <!-- Tests.leaveTest -->
+      </class> <!-- Tests.pimTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
