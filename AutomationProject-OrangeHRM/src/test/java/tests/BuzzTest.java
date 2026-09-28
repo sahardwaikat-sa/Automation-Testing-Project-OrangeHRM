@@ -8,7 +8,7 @@ import pages.BuzzPage;
 
 public class BuzzTest extends BaseClass {
 
-    
+	 @Test
     public void verifyBuzzPage() {
         BuzzPage buzzPage = new BuzzPage(driver);
 
@@ -19,7 +19,7 @@ public class BuzzTest extends BaseClass {
         Assert.assertEquals(heading, "Buzz");
     }
     
-   
+    @Test
     public void createPost() {
         BuzzPage buzzPage = new BuzzPage(driver);
 
@@ -30,7 +30,7 @@ public class BuzzTest extends BaseClass {
     }
     
     
-    
+    @Test
     public void likePost() {
         BuzzPage buzzPage = new BuzzPage(driver);
 

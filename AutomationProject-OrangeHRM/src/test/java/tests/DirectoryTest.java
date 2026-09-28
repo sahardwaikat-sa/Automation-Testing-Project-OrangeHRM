@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import base.BaseClass;
 
 public class DirectoryTest extends BaseClass {
-	
+	 @Test
        public void verifyDirectoryPage() {
 
         DirectoryPage directoryPage = new DirectoryPage(driver);
@@ -28,7 +28,7 @@ public class DirectoryTest extends BaseClass {
 	
 	
 	
-	
+       @Test
 	public void searchEmployee() {
 
 	    DirectoryPage directoryPage = new DirectoryPage(driver);
@@ -44,7 +44,7 @@ public class DirectoryTest extends BaseClass {
 	
 	
 	
-
+	 @Test
 	public void searchByJobTitle() {
 
 	    DirectoryPage directoryPage = new DirectoryPage(driver);
@@ -55,14 +55,14 @@ public class DirectoryTest extends BaseClass {
 	}
 	
 	
-	
+	 @Test
 	public void searchByLocation() {
 	    DirectoryPage directoryPage = new DirectoryPage(driver);
 	    directoryPage.clickDirectory();
 	    directoryPage.searchByLocation();
 	}
 	
-	
+	 @Test
 	public void resetSearchFilters() {
 	    DirectoryPage directoryPage = new DirectoryPage(driver);
 	    directoryPage.clickDirectory();

@@ -10,7 +10,7 @@ import pages.AdminPage;
 
 public class AdminTest extends BaseClass {
 
-
+	 @Test
     public void verifyAdminPageDisplayed() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -22,7 +22,7 @@ public class AdminTest extends BaseClass {
 	
 	
 	
- 
+    @Test
     public void searchValidUsername() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -39,7 +39,7 @@ public class AdminTest extends BaseClass {
     
     
     
-  
+    @Test
     public void searchInvalidUsername() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -56,7 +56,7 @@ public class AdminTest extends BaseClass {
     
     
     
- 
+    @Test
     public void searchByEmployeeName() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -70,7 +70,7 @@ public class AdminTest extends BaseClass {
     }
     
     
-   
+    @Test
     public void searchByUserRole() throws InterruptedException {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -86,7 +86,7 @@ public class AdminTest extends BaseClass {
        // Assert.assertEquals(actualRole, "Admin");
     }
     
-   
+    @Test
     public void searchByStatus() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -100,7 +100,7 @@ public class AdminTest extends BaseClass {
     }
     
     
-    
+    @Test
     public void resetSearchFilters() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -121,7 +121,7 @@ public class AdminTest extends BaseClass {
     
     
     
-    
+    @Test
     public void addUser() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -136,7 +136,7 @@ public class AdminTest extends BaseClass {
     
     
     
-
+    @Test
     public void editUser() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -152,7 +152,7 @@ public class AdminTest extends BaseClass {
         Assert.assertTrue(message.contains("Successfully Updated"));
     }
     
-   
+    @Test
     public void deleteUser() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -165,7 +165,7 @@ public class AdminTest extends BaseClass {
         Assert.assertTrue(message.contains("Successfully Deleted"));
     }
     
-    
+    @Test
     public void searchWithMultipleFilters() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -185,7 +185,7 @@ public class AdminTest extends BaseClass {
     
    //job
     
-
+    @Test
     public void verifyJobTitlesPage() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -197,7 +197,7 @@ public class AdminTest extends BaseClass {
 
         Assert.assertEquals(heading, "Job Titles");
     }
-    
+    @Test
     public void addJobTitle() {
 
         AdminPage adminPage = new AdminPage(driver);
@@ -214,7 +214,7 @@ public class AdminTest extends BaseClass {
     
     
     
-  
+    @Test
     public void editJobTitle() {
 
         AdminPage adminPage = new AdminPage(driver);
