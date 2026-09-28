@@ -29,11 +29,11 @@ public class LoginTest extends baseTest {
 
     @Test(dataProvider = "LOGINDATA")
     public void verifyLogin(String username, String password, String expected) {
-
+    	 Reporter.log("start login and validation Credentials");
         loginObject.enterUsername(username);
         loginObject.enterPassword(password);
         loginObject.clickLogin();
-
+        Reporter.log("enter dashboard page ");
         if (expected.equals("true")) {
             Assert.assertTrue(loginObject.openNextPage()); 
             System.out.println(" we are in next page");}

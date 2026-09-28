@@ -20,7 +20,7 @@ public class leavePage {
 	
 	By LeaveButton =  By.xpath("//span[text()='Leave']");
 	By ApplyButton= By.xpath("//a[text()='Apply']");
-	By leavetype  = By.xpath("//label[text()='Leave Type']/following::div[1]");
+	By leavetype  = By.xpath("//label[text()='Leave Type' and contains(@class,'oxd-input-field-required')]/following::div[contains(@class,'oxd-select-text-input')][1]");
 	By fromDate   = By.xpath("//label[text()='From Date']/following::div[1]");
 	By ToDate    = By.xpath("//label[text()='To Date']/following::div[1]");
 	By Commentsfields = By.xpath("//label[text()='Comments']/following::div[1]");
@@ -57,17 +57,19 @@ public class leavePage {
 	
 	public void leaveTypelistclick() {
 		
+		
 		wait.until(ExpectedConditions.elementToBeClickable(leavetype)).click();
-		
-		
 			}
+		
+		
+			
 	
 	
 	
 	// leave list method
 	
 	public boolean checkLeaveList() {
-		leaveTypelistclick();
+		leaveTypelistclick(); 
 		
 		List<WebElement>leavelist=driver.findElements(By.xpath(" //div[@role='option']"));
         if(leavelist.isEmpty())
@@ -76,11 +78,11 @@ public class leavePage {
 	}		
 	
 	public boolean checkLeaveListItems (String listitem) {
-		leaveTypelistclick();
+		leaveTypelistclick() ;
+				
+		List<WebElement>leavelist=wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//div[@role='option']")));
 		
-		List<WebElement>leaveList= driver.findElements(By.xpath(" //div[@role='option']"));
-		
-		for( WebElement option :leaveList ) {
+		for( WebElement option :leavelist ) {
 			
 			if(option.getText().equals(listitem))
 				return true;
@@ -92,35 +94,35 @@ public class leavePage {
 	// leave date method
 	
 	
-	public void fromleveDateSelect(String day) {
+public void fromleveDateSelect(String day) {
 		
-		LocalDate date = LocalDate.now();
-
-		int dayOfMonth = date.getDayOfMonth();
+		wait.until(ExpectedConditions.elementToBeClickable(ToDate)).click();
 		
-		driver.findElement(fromDate).click();
+		WebElement calnder= wait.until(ExpectedConditions.visibilityOfElementLocated(Calnderpopup));
 		
-		WebElement calnder= driver.findElement(Calnderpopup);
-		calnder.findElement(By.xpath(".//*[normalize-space()='"+ dayOfMonth+ "']")).click();
-		
-		
-		
+		calnder.findElement(By.xpath(".//div[contains(@class,'oxd-calendar-date-wrapper') and not(contains(@class,'offset'))]"
+				+ "/div[contains(@class,'oxd-calendar-date')][normalize-space()='"+ day.trim() +"']"))
+			.click();
 	}
+		
+		
+	
 	
 	
 	public void toleveDateSelect(String day) {
 		
-		LocalDate date = LocalDate.now();
-
-		int dayOfMonth = date.getDayOfMonth();
+wait.until(ExpectedConditions.elementToBeClickable(fromDate)).click();
 		
-		driver.findElement(ToDate).click();
+		WebElement calnder= wait.until(ExpectedConditions.visibilityOfElementLocated(Calnderpopup));
 		
-		WebElement calnder= driver.findElement(Calnderpopup);
-		calnder.findElement(By.xpath(".//*[normalize-space()='"+ dayOfMonth+ "']")).click();
+		calnder.findElement(By.xpath(
+				".//div[contains(@class,'oxd-calendar-date-wrapper') and not(contains(@class,'offset'))]"
+				+ "/div[contains(@class,'oxd-calendar-date')][normalize-space()='"+ day.trim() +"']"))
+			.click();
+	}
 		
 				
-	}
+
 	
 public String PartialDays(String type) {
 	

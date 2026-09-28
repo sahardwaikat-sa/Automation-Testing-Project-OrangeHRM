@@ -24,7 +24,7 @@ public class leaveTest extends baseTest {
 	public Object[][] getdata() {
 
 		return new Object[][] { 
-			{ " SAHAR " }
+			{ "Casual" }
 
 		};
 	}
@@ -52,7 +52,20 @@ public Object[][] getCommentLengths() {
 	public Object[][] gettyps() {
 
 		return new Object[][] { 
-			{ " SAHAR " }
+			{"Start Day Only "},
+			{"End Day Only"},
+			{"Start and End Day"},
+
+		};
+	}
+	
+	@DataProvider(name = "Duration")
+	public Object[][] getdu() {
+
+		return new Object[][] { 
+			{"Half Day - Morning"},
+			{"Half Day - Afternoon"},
+			{"Specify Time"},
 
 		};
 	}
@@ -86,15 +99,15 @@ public Object[][] getCommentLengths() {
 
 	}
 
-	@Test
+	@Test(priority = 2)
 	void verifyEnterleaveApply() {
+		LeaveObject.enterLeavePage();
 		LeaveObject.applyLeave();
-		Assert.assertTrue(driver.getCurrentUrl().contains("applyLeave"));
+	   Assert.assertTrue(driver.getCurrentUrl().contains("applyLeave"));
 		System.out.println("We are in apply Leave page");
 
 	}
-
-	@Test
+	@Test(priority = 3)
 	void verifyListLeave() {
 
 		Assert.assertTrue(LeaveObject.checkLeaveList());
@@ -106,7 +119,6 @@ public Object[][] getCommentLengths() {
 	void verifylistleaveitems(String Item) {
 		LeaveObject.enterLeavePage();
 		LeaveObject.applyLeave();
-		LeaveObject.leaveTypelistclick();
 		Assert.assertTrue(LeaveObject.checkLeaveListItems(Item));
 
 	}
