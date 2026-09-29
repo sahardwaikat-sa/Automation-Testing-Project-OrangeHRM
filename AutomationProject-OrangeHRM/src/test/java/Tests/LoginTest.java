@@ -27,7 +27,7 @@ public class LoginTest extends baseTest {
         loginObject = new loginPage(driver);
     }
 
-    @Test(dataProvider = "LOGINDATA")
+    @Test(dataProvider = "LOGINDATA",dataProviderClass = DataProvider.class)
     public void verifyLogin(String username, String password, String expected) {
     	 Reporter.log("start login and validation Credentials");
         loginObject.enterUsername(username);
@@ -47,19 +47,5 @@ public class LoginTest extends baseTest {
         	
         	System.out.println("fields is required");
         } 
-    }
+    }}
 
-    @DataProvider(name = "LOGINDATA")
-    public Object[][] getdata() {
-        return new Object[][] {
-                { "Admin", "admin123", "true" },
-                { "admin1", "pass123", "false" },
-                { "admin", "123", "false" },
-                { "", "pass123", "empty" },
-                { "admin", "", "empty" },
-                { "", "", "empty" },
-                { "admin", "-123", "false" },
-                { "Admin", "%&*#@", "false" }
-        };
-    }
-}

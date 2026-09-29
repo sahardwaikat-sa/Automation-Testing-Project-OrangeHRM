@@ -8,6 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Reporter;
 
 public class loginPage {
 
@@ -57,7 +58,7 @@ public class loginPage {
             return false;
         }
     }
-
+  
     public String getLoginMessage() {
         return wait.until(ExpectedConditions.visibilityOfElementLocated(LoginMessage)).getText();
     }
@@ -65,4 +66,19 @@ public class loginPage {
     public String getCurrentUrl() {
         return driver.getCurrentUrl();
     }
+
+
+
+    public void login(String username, String password) {
+   
+    pages.loginPage loginObject = new pages.loginPage(driver);
+       enterUsername(username);
+    Reporter.log("enter user ");
+        enterPassword(password);
+    Reporter.log("enter pass");
+      clickLogin();
+    Reporter.log("click the login page");
+    openNextPage();
+    Reporter.log("next page is open ");
+}
 }

@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
-<suite name="OrangeHRM">
+<suite name="OrangeHRM Automation Suite" verbose="1">
 
-  
+    <!-- Uncomment and replace with your real listener class name from the "listener" package -->
+    <!--
+    <listeners>
+        <listener class-name="listener.YourListenerClassName"/>
+    </listeners>
+    -->
 
-    <test name="All tests">
-        <packages>
-            <package name="tests"/>
-        </packages>
+    <test name="OrangeHRM Regression Tests" preserve-order="true">
+        <classes>
+            <!-- 1. Login first -->
+            <class name="Tests.LoginTest"/>
+
+            <!-- 2. Main modules -->
+            <class name="Tests.AdminTest"/>
+            <class name="Tests.pimTest"/>
+            <class name="Tests.leaveTest"/>
+
+            <!-- 3. Other classes -->
+            <class name="Tests.BuzzTest"/>
+            <class name="Tests.DirectoryTest"/>
+            <class name="Tests.LoginForPimTest"/>
+        </classes>
     </test>
 
 </suite>

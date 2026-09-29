@@ -11,82 +11,12 @@ import pages.loginPage;
 import pages.pimPage;
 
 @Listeners(listener.class)
-public class pimTest extends baseTest {
+public class  PimTest extends baseTest {
 
 	pimPage PIMObject;
 	loginPage loginObject;
 
-	@DataProvider(name = "USERNAME")
-	public Object[][] getdata() {
 
-		return new Object[][] {
-			{ "", true }, 
-			{ "AHAMD",true},
-			{ "ghy", true },
-			{"123",true},
-			{"@#@**",true}
-
-		};
-	}
-	
-	@DataProvider(name = "USERID")
-	public Object[][] getID() {
-
-		return new Object[][] {
-			{ "", true}, 
-			{ "AHAMD",true},
-			{ "ghy",true},
-			{"123",true},
-			{"@#@**",true},
-			{"999999999",true},
-			{"-123",true}
-			
-
-		};
-	}
-	
-	
-	@DataProvider(name = "SubUnit")
-	public Object[][] getUnit() {
-
-		return new Object[][] {
-		{ "Administration"},
-			{ "Engineering"},
-			{"Development"},
-			{"Quality Assurance"}
-
-		};
-	}
-		
-	
-		@DataProvider(name = "EmploymentStatusItems")
-		public Object[][] getstatus() {
-
-			return new Object[][] {
-	            { "Full-Time Contract"},
-				{ "Full-Time Permanent"},
-				{"Full-Time Probation"}
-				};
-					}
-		
-		@DataProvider(name = "ADDEMPLOYEEDAAT ")
-		public Object[][] getinfo() {
-
-			return new Object[][] {
-				{"ssss", "fhhf", "gdgcg", "9001"},
-				{"Ahmed", "", "Ali", "9002"},
-				{"Sara", "fhhf", "gdgcg", "9003"},
-				{"ssss", "44", "gdgcg", "9004"},
-				{"ssss", "fhhf", "44", "9005"},
-				{"Nour", "fhhf", "Mostafa", "9006"},
-				{"ssss", "", "gdgcg", "9007"},
-				{"Mohammed", "", "Yousef", "9008"}
-			};
-				
-
-			
-			
-		}
 
 		@BeforeMethod
 		public void SetupObject() {
@@ -95,9 +25,11 @@ public class pimTest extends baseTest {
 			loginObject = new loginPage(driver);
 			PIMObject = new pimPage(driver);
 
-			loginObject.enterUsername("Admin");
-			loginObject.enterPassword("admin123");
-			loginObject.clickLogin();
+			
+			loginObject.login("Admin", "admin123");
+			//loginObject.enterUsername("Admin");
+			//loginObject.enterPassword("admin123");
+			//loginObject.clickLogin();
 
 			Assert.assertTrue(loginObject.openNextPage(), "Login failed");
 			PIMObject.enterPimPage();
@@ -116,7 +48,7 @@ public class pimTest extends baseTest {
 
 	}
 
-	@Test(priority = 1, dataProvider = "USERNAME")
+	@Test(priority = 1, dataProvider = "USERNAME",dataProviderClass = DataProvider.class)
 	void verifyEmployeeName(String username, boolean expected) {
 
 		boolean actual=PIMObject.employeeNameValidation(username);
@@ -130,7 +62,7 @@ public class pimTest extends baseTest {
 	}
 	
 	
-	@Test(priority = 2,dataProvider = "USERID")
+	@Test(priority = 2,dataProvider = "USERID",dataProviderClass = DataProvider.class)
 	void verifyEmployeeID(String id , boolean expected) {
 		
 		boolean actual=PIMObject.employeeIdVerification(id);
@@ -142,7 +74,7 @@ public class pimTest extends baseTest {
 	}
 	
 	
-	@Test(priority = 3, dataProvider = "USERNAME")
+	@Test(priority = 3, dataProvider = "USERNAME",dataProviderClass = DataProvider.class)
 	
      void verifySupervisorName(String name , boolean expected) {
 		
@@ -200,7 +132,7 @@ public class pimTest extends baseTest {
 
 	}
 
-	@Test(dataProvider = "SubUnit")
+	@Test(dataProvider = "SubUnit",dataProviderClass = DataProvider.class)
 	void verifySubUnitItems(String Unit) {
 
 		PIMObject.subUnitVerification();
@@ -218,7 +150,7 @@ void verifyEmploymentStatus() {
 
 }
 
-@Test(dataProvider = "EmploymentStatusItems")
+@Test(dataProvider = "EmploymentStatusItems",dataProviderClass = DataProvider.class)
 void verifyEmploymentStatusItems(String Unit) {
 
 	PIMObject.employmentStatuslistVerification();
@@ -245,7 +177,7 @@ void verifyaddEmployee() {
 	
 }
 
-@Test(dataProvider ="ADDEMPLOYEEDAAT ")
+@Test(dataProvider ="AddEmployeeData",dataProviderClass = DataProvider.class)
 void verifyAddEmployeeData( String First , String Midle, String Last, String id) {
 	PIMObject.addButton();
 	PIMObject.addEmployeeFirstname(First);

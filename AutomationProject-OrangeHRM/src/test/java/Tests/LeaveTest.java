@@ -15,60 +15,12 @@ import pages.pimPage;
 
 
 @Listeners(listener.class)
-public class leaveTest extends baseTest {
+public class LeaveTest extends baseTest {
 
 	leavePage LeaveObject;
 	loginPage loginObject;
 
-	@DataProvider(name = "leavelist")
-	public Object[][] getdata() {
 
-		return new Object[][] { 
-			{ "Casual" }
-
-		};
-	}
-
-	@DataProvider(name = "checkdate")
-	public Object[][] getdate() {
-
-		return new Object[][] { { "1 ", " 3 ", true }, { " 15 ", " 7 ", false }, { " 1 ", " 1 ", true },
-				{ "  ", " 11 ", false }, { " 11 ", "  ", false }, { " -1 ", " 1 ", false }
-
-		};
-	}
-	
-	
-
-@DataProvider(name = "COMMENT_LENGTHS")
-public Object[][] getCommentLengths() {
-    return new Object[][] {
-        { "A".repeat(50), 50 },     
-        { "A".repeat(500), 500 },   
-        { "A".repeat(600), 500 },   
-    };
-}
-	@DataProvider(name = "PartialDays")
-	public Object[][] gettyps() {
-
-		return new Object[][] { 
-			{"Start Day Only "},
-			{"End Day Only"},
-			{"Start and End Day"},
-
-		};
-	}
-	
-	@DataProvider(name = "Duration")
-	public Object[][] getdu() {
-
-		return new Object[][] { 
-			{"Half Day - Morning"},
-			{"Half Day - Afternoon"},
-			{"Specify Time"},
-
-		};
-	}
 	
 
 	@BeforeMethod
@@ -78,10 +30,11 @@ public Object[][] getCommentLengths() {
 		LeaveObject = new leavePage(driver);
 
 		loginObject = new loginPage(driver);
+		loginObject.login("Admin", "admin123");
 
-		loginObject.enterUsername("Admin");
-		loginObject.enterPassword("admin123");
-		loginObject.clickLogin();
+		//loginObject.enterUsername("Admin");
+		//loginObject.enterPassword("admin123");
+		//loginObject.clickLogin();
 
 		Assert.assertTrue(loginObject.openNextPage(), "Login failed");
 
@@ -115,7 +68,7 @@ public Object[][] getCommentLengths() {
 
 	}
 
-	@Test(dataProvider = "leavelist")
+	@Test(dataProvider = "leavelist",dataProviderClass = DataProvider.class)
 	void verifylistleaveitems(String Item) {
 		LeaveObject.enterLeavePage();
 		LeaveObject.applyLeave();
@@ -123,7 +76,7 @@ public Object[][] getCommentLengths() {
 
 	}
 
-	@Test(dataProvider = "checkdate")
+	@Test(dataProvider = "checkdate",dataProviderClass = DataProvider.class)
 
 	void verifyLeavedate(String from, String TO, boolean expected) {
 		LeaveObject.fromleveDateSelect(from);
@@ -140,7 +93,7 @@ public Object[][] getCommentLengths() {
 
 	}
 	
-	@Test (dataProvider = "PartialDays")
+	@Test (dataProvider = "PartialDays",dataProviderClass = DataProvider.class)
 	
 	void verifyPartialDayslist(String Type) {
 	Assert.assertTrue(LeaveObject.PartialDayslist(Type));
@@ -156,7 +109,7 @@ public Object[][] getCommentLengths() {
 		
 	}
 	
-	@Test(dataProvider = "COMMENT_LENGTHS")
+	@Test(dataProvider = "COMMENT_LENGTHS",dataProviderClass = DataProvider.class)
 	void verifycoomentsfield(String input, int expectedLength) {
 		LeaveObject.applyLeave();
 		

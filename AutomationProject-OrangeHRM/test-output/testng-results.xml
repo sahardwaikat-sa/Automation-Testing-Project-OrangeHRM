@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="7" total="10" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
     <line>
       <![CDATA[open the Browser]]>
@@ -8,24 +8,102 @@
       <![CDATA[maximize the Browser]]>
     </line>
     <line>
+      <![CDATA[start login and validation Credentials]]>
+    </line>
+    <line>
+      <![CDATA[enter dashboard page ]]>
+    </line>
+    <line>
       <![CDATA[open the Browser]]>
     </line>
     <line>
       <![CDATA[maximize the Browser]]>
     </line>
     <line>
+      <![CDATA[start login and validation Credentials]]>
+    </line>
+    <line>
+      <![CDATA[enter dashboard page ]]>
+    </line>
+    <line>
       <![CDATA[open the Browser]]>
     </line>
     <line>
       <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[start login and validation Credentials]]>
+    </line>
+    <line>
+      <![CDATA[enter dashboard page ]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[start login and validation Credentials]]>
+    </line>
+    <line>
+      <![CDATA[enter dashboard page ]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[start login and validation Credentials]]>
+    </line>
+    <line>
+      <![CDATA[enter dashboard page ]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[start login and validation Credentials]]>
+    </line>
+    <line>
+      <![CDATA[enter dashboard page ]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[start login and validation Credentials]]>
+    </line>
+    <line>
+      <![CDATA[enter dashboard page ]]>
+    </line>
+    <line>
+      <![CDATA[open the Browser]]>
+    </line>
+    <line>
+      <![CDATA[maximize the Browser]]>
+    </line>
+    <line>
+      <![CDATA[start login and validation Credentials]]>
+    </line>
+    <line>
+      <![CDATA[enter dashboard page ]]>
     </line>
   </reporter-output>
-  <suite started-at="2026-09-29T13:30:05 EET" name="Default suite" finished-at="2026-09-29T13:31:19 EET" duration-ms="74200">
+  <suite started-at="2026-09-29T17:15:10 EET" name="Default suite" finished-at="2026-09-29T17:16:57 EET" duration-ms="107292">
     <groups>
     </groups>
-    <test started-at="2026-09-29T13:30:05 EET" name="Default test" finished-at="2026-09-29T13:31:19 EET" duration-ms="74200">
-      <class name="Tests.leaveTest">
-        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.leaveTest@40a4337a]" started-at="2026-09-29T13:30:05 EET" name="setupDriver" finished-at="2026-09-29T13:30:20 EET" duration-ms="15036" status="PASS">
+    <test started-at="2026-09-29T17:15:10 EET" name="Default test" finished-at="2026-09-29T17:16:57 EET" duration-ms="107292">
+      <class name="Tests.LoginTest">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:10 EET" name="setupDriver" finished-at="2026-09-29T17:15:21 EET" duration-ms="10613" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[open the Browser]]>
@@ -35,31 +113,42 @@
             </line>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.leaveTest@40a4337a]" started-at="2026-09-29T13:30:20 EET" name="SetupObject" finished-at="2026-09-29T13:30:32 EET" duration-ms="11263" status="PASS">
+        <test-method is-config="true" signature="setupObject()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:21 EET" name="setupObject" finished-at="2026-09-29T17:15:27 EET" duration-ms="6109" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- SetupObject -->
-        <test-method signature="verifycoomentsfield(java.lang.String,int)[pri:0, instance:Tests.leaveTest@40a4337a]" started-at="2026-09-29T13:30:32 EET" name="verifycoomentsfield" data-provider="COMMENT_LENGTHS" finished-at="2026-09-29T13:30:34 EET" duration-ms="2373" status="PASS">
+        </test-method> <!-- setupObject -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:27 EET" name="verifyLogin" data-provider="LOGINDATA" finished-at="2026-09-29T17:15:29 EET" duration-ms="2275" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]>
+                <![CDATA[Admin]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[50]]>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
               </value>
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[start login and validation Credentials]]>
+            </line>
+            <line>
+              <![CDATA[enter dashboard page ]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- verifycoomentsfield -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.leaveTest@40a4337a]" started-at="2026-09-29T13:30:34 EET" name="tearDown" finished-at="2026-09-29T13:30:35 EET" duration-ms="1384" status="PASS">
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:29 EET" name="tearDown" finished-at="2026-09-29T17:15:30 EET" duration-ms="1429" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.leaveTest@40a4337a]" started-at="2026-09-29T13:30:35 EET" name="setupDriver" finished-at="2026-09-29T13:30:38 EET" duration-ms="2622" status="PASS">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:30 EET" name="setupDriver" finished-at="2026-09-29T17:15:36 EET" duration-ms="5198" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[open the Browser]]>
@@ -69,31 +158,42 @@
             </line>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.leaveTest@40a4337a]" started-at="2026-09-29T13:30:38 EET" name="SetupObject" finished-at="2026-09-29T13:30:56 EET" duration-ms="18062" status="PASS">
+        <test-method is-config="true" signature="setupObject()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:36 EET" name="setupObject" finished-at="2026-09-29T17:15:40 EET" duration-ms="4733" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- SetupObject -->
-        <test-method signature="verifycoomentsfield(java.lang.String,int)[pri:0, instance:Tests.leaveTest@40a4337a]" started-at="2026-09-29T13:30:56 EET" name="verifycoomentsfield" data-provider="COMMENT_LENGTHS" finished-at="2026-09-29T13:31:01 EET" duration-ms="4760" status="PASS">
+        </test-method> <!-- setupObject -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:40 EET" name="verifyLogin" data-provider="LOGINDATA" finished-at="2026-09-29T17:15:43 EET" duration-ms="2763" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]>
+                <![CDATA[admin1]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[500]]>
+                <![CDATA[pass123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
               </value>
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[start login and validation Credentials]]>
+            </line>
+            <line>
+              <![CDATA[enter dashboard page ]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- verifycoomentsfield -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.leaveTest@40a4337a]" started-at="2026-09-29T13:31:01 EET" name="tearDown" finished-at="2026-09-29T13:31:03 EET" duration-ms="2035" status="PASS">
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:43 EET" name="tearDown" finished-at="2026-09-29T17:15:44 EET" duration-ms="657" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.leaveTest@40a4337a]" started-at="2026-09-29T13:31:03 EET" name="setupDriver" finished-at="2026-09-29T13:31:06 EET" duration-ms="2822" status="PASS">
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:44 EET" name="setupDriver" finished-at="2026-09-29T17:15:48 EET" duration-ms="4374" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[open the Browser]]>
@@ -103,31 +203,267 @@
             </line>
           </reporter-output>
         </test-method> <!-- setupDriver -->
-        <test-method is-config="true" signature="SetupObject()[pri:0, instance:Tests.leaveTest@40a4337a]" started-at="2026-09-29T13:31:06 EET" name="SetupObject" finished-at="2026-09-29T13:31:15 EET" duration-ms="9650" status="PASS">
+        <test-method is-config="true" signature="setupObject()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:48 EET" name="setupObject" finished-at="2026-09-29T17:15:53 EET" duration-ms="4960" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- SetupObject -->
-        <test-method signature="verifycoomentsfield(java.lang.String,int)[pri:0, instance:Tests.leaveTest@40a4337a]" started-at="2026-09-29T13:31:15 EET" name="verifycoomentsfield" data-provider="COMMENT_LENGTHS" finished-at="2026-09-29T13:31:19 EET" duration-ms="3610" status="PASS">
+        </test-method> <!-- setupObject -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:53 EET" name="verifyLogin" data-provider="LOGINDATA" finished-at="2026-09-29T17:15:56 EET" duration-ms="2597" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]>
+                <![CDATA[admin]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[500]]>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
               </value>
             </param>
           </params>
           <reporter-output>
+            <line>
+              <![CDATA[start login and validation Credentials]]>
+            </line>
+            <line>
+              <![CDATA[enter dashboard page ]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- verifycoomentsfield -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.leaveTest@40a4337a]" started-at="2026-09-29T13:31:19 EET" name="tearDown" finished-at="2026-09-29T13:31:19 EET" duration-ms="428" status="PASS">
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:56 EET" name="tearDown" finished-at="2026-09-29T17:15:56 EET" duration-ms="689" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Tests.leaveTest -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:56 EET" name="setupDriver" finished-at="2026-09-29T17:15:59 EET" duration-ms="2334" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="setupObject()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:15:59 EET" name="setupObject" finished-at="2026-09-29T17:16:04 EET" duration-ms="5314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupObject -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:04 EET" name="verifyLogin" data-provider="LOGINDATA" finished-at="2026-09-29T17:16:05 EET" duration-ms="1051" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[start login and validation Credentials]]>
+            </line>
+            <line>
+              <![CDATA[enter dashboard page ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:05 EET" name="tearDown" finished-at="2026-09-29T17:16:06 EET" duration-ms="712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:06 EET" name="setupDriver" finished-at="2026-09-29T17:16:08 EET" duration-ms="2378" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="setupObject()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:08 EET" name="setupObject" finished-at="2026-09-29T17:16:13 EET" duration-ms="4496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupObject -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:13 EET" name="verifyLogin" data-provider="LOGINDATA" finished-at="2026-09-29T17:16:14 EET" duration-ms="1094" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[start login and validation Credentials]]>
+            </line>
+            <line>
+              <![CDATA[enter dashboard page ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:14 EET" name="tearDown" finished-at="2026-09-29T17:16:14 EET" duration-ms="598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:14 EET" name="setupDriver" finished-at="2026-09-29T17:16:17 EET" duration-ms="2159" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="setupObject()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:17 EET" name="setupObject" finished-at="2026-09-29T17:16:22 EET" duration-ms="5835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupObject -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:22 EET" name="verifyLogin" data-provider="LOGINDATA" finished-at="2026-09-29T17:16:24 EET" duration-ms="1226" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[empty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[start login and validation Credentials]]>
+            </line>
+            <line>
+              <![CDATA[enter dashboard page ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:24 EET" name="tearDown" finished-at="2026-09-29T17:16:25 EET" duration-ms="1230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:25 EET" name="setupDriver" finished-at="2026-09-29T17:16:30 EET" duration-ms="5243" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="setupObject()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:30 EET" name="setupObject" finished-at="2026-09-29T17:16:36 EET" duration-ms="5627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupObject -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:36 EET" name="verifyLogin" data-provider="LOGINDATA" finished-at="2026-09-29T17:16:40 EET" duration-ms="4031" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[start login and validation Credentials]]>
+            </line>
+            <line>
+              <![CDATA[enter dashboard page ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:40 EET" name="tearDown" finished-at="2026-09-29T17:16:41 EET" duration-ms="843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setupDriver()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:41 EET" name="setupDriver" finished-at="2026-09-29T17:16:43 EET" duration-ms="2411" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[open the Browser]]>
+            </line>
+            <line>
+              <![CDATA[maximize the Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method is-config="true" signature="setupObject()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:43 EET" name="setupObject" finished-at="2026-09-29T17:16:53 EET" duration-ms="10108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupObject -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:53 EET" name="verifyLogin" data-provider="LOGINDATA" finished-at="2026-09-29T17:16:57 EET" duration-ms="3349" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[%&*#@]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[start login and validation Credentials]]>
+            </line>
+            <line>
+              <![CDATA[enter dashboard page ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LoginTest@34e9fd99]" started-at="2026-09-29T17:16:57 EET" name="tearDown" finished-at="2026-09-29T17:16:57 EET" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.LoginTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
