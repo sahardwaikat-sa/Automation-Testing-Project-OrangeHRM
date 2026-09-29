@@ -3,6 +3,7 @@ package tests;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import base.BaseClass;
@@ -10,6 +11,39 @@ import pages.AdminPage;
 
 public class AdminTest extends BaseClass {
 
+	
+	 @DataProvider(name = "addUser")
+	   	public Object[][] getdu() {
+
+	   		return new Object[][] { 
+	   			{"SaraAuto688", "Sara12346"},
+	   			{"aghhhhhhhhhhhhhjhlohllllllllllllllllllllllll/","1234567"},
+	   			{"fg", "Sara12346"},
+	   			{"124556777", "Sara12346"},{"SaraAuto688", "5"}
+
+	   		};
+	   	}
+	
+	
+	 @DataProvider(name = "jobtitel")
+		public Object[][] getdata() {
+
+			return new Object[][] { 
+				{ "Automation Tester1" },{ "2343525" },{},{"ss"},{"saradfghjklyjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj"}
+
+			};
+		}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	 @Test
     public void verifyAdminPageDisplayed() {
 
@@ -54,7 +88,7 @@ public class AdminTest extends BaseClass {
     } 
     
     
-    
+   
     
     @Test
     public void searchByEmployeeName() {
@@ -119,16 +153,16 @@ public class AdminTest extends BaseClass {
         Assert.assertEquals(statusValue, "-- Select --");
     }
     
+   
     
-    
-    @Test
-    public void addUser() {
+    @Test(dataProvider="addUser")
+    public void addUser(String username,String password) {
 
         AdminPage adminPage = new AdminPage(driver);
 
         adminPage.clickAdminPage();
 
-        adminPage.addUser("SaraAuto66", "Sara@12345");
+        adminPage.addUser(username,  password);
         String message = adminPage.getSuccessMessage();
 
         Assert.assertTrue(message.contains("Successfully Saved"));
@@ -197,8 +231,8 @@ public class AdminTest extends BaseClass {
 
         Assert.assertEquals(heading, "Job Titles");
     }
-    @Test
-    public void addJobTitle() {
+    @Test(dataProvider="jobtitel")
+    public void addJobTitle(String titel) {
 
         AdminPage adminPage = new AdminPage(driver);
 
@@ -206,7 +240,7 @@ public class AdminTest extends BaseClass {
 
         adminPage.clickJobTitles();
 
-        adminPage.addJobTitle("Automation Tester1");
+        adminPage.addJobTitle(titel);
         String message = adminPage.getSuccessMessage();
 
         Assert.assertTrue(message.contains("Successfully Saved"));
@@ -226,7 +260,7 @@ public class AdminTest extends BaseClass {
         adminPage.editJobTitle(
             "Automation Tester",
             "Automation QA Tester"
-        );
+   );
 
         String message = adminPage.getSuccessMessage();
 
