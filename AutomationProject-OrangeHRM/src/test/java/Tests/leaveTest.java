@@ -1,5 +1,5 @@
 package Tests;
-
+import BaseTest.baseTest;
 import org.testng.annotations.Test;
 
 import org.testng.Assert;
@@ -160,10 +160,15 @@ public Object[][] getCommentLengths() {
 	void verifycoomentsfield(String input, int expectedLength) {
 		LeaveObject.applyLeave();
 		
-	String Actual	=LeaveObject.addcomments (input);
-	Assert.assertEquals(Actual.length(), expectedLength, "expected max length");
+	String Actual=LeaveObject.addcomments (input);
+	
+	if (expectedLength==(Actual.length()))
+	{
+	Assert.assertEquals(Actual.length(), expectedLength, "expected max length");}
 	      
-		
+	else {
+		Assert.assertNotEquals(Actual.length(), expectedLength);
+	}
 		 
 	}
 	

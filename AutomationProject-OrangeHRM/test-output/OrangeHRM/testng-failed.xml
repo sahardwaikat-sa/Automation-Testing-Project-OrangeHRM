@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeHRM]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="All tests(failed)">
+    <classes>
+      <class name="tests.leaveTest">
+        <methods>
+          <include name="verifycoomentsfield" invocation-numbers="0 1 2"/>
+          <include name="verifylistleaveitems" invocation-numbers="0"/>
+          <include name="verifyListLeave"/>
+          <include name="verifyLeavedate" invocation-numbers="0 2 3 4 5"/>
+          <include name="tearDown"/>
+          <include name="verifyPartialDayslist" invocation-numbers="0 1 2"/>
+          <include name="verifydurationlist" invocation-numbers="0 1 2"/>
+          <include name="SetupObject"/>
+          <include name="setupDriver"/>
+        </methods>
+      </class> <!-- tests.leaveTest -->
+      <class name="tests.AdminTest">
+        <methods>
+          <include name="searchInvalidUsername"/>
+          <include name="tearDown"/>
+          <include name="searchValidUsername"/>
+          <include name="setUp"/>
+          <include name="editUser"/>
+          <include name="deleteUser"/>
+        </methods>
+      </class> <!-- tests.AdminTest -->
+      <class name="tests.BuzzTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="createPost"/>
+        </methods>
+      </class> <!-- tests.BuzzTest -->
+      <class name="tests.pimTest">
+        <methods>
+          <include name="verifySubUnitItems" invocation-numbers="1"/>
+          <include name="SetupObject"/>
+          <include name="verifyDeletButton"/>
+          <include name="tearDown"/>
+          <include name="verifyEmploymentStatusItems" invocation-numbers="0 1 2 3 4"/>
+          <include name="setupDriver"/>
+        </methods>
+      </class> <!-- tests.pimTest -->
+    </classes>
+  </test> <!-- All tests(failed) -->
+</suite> <!-- Failed suite [OrangeHRM] -->

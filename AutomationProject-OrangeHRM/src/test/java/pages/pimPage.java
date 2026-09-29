@@ -43,7 +43,7 @@ public class pimPage {
 	By checkBoxAll = By.xpath(
 			"//div[@role='columnheader']//span[contains(@class,'oxd-checkbox-input oxd-checkbox-input--active ')]");
 	By Firstcheckbox = By.xpath("(//div[@role='rowgroup']//span[contains(@class,'oxd-checkbox-input') and not(ancestor::div[@role='columnheader'])])[1]");
-	By EditButton = By.xpath("//div[text()='Amelia ']/following::button[1]");
+	By EditButton = By.xpath("//div[normalize-space()='Amelia']/following::button[1]");
 	By DeleteButton = By.xpath("//div[text()='Amelia ']/following::button[2]");
 	By DeleteALL = By.xpath("//button[@type ='button' and text()=' Delete Selected ']");
 	By PIMclick = By.xpath("//a[@href='/web/index.php/pim/viewPimModule']");

@@ -168,7 +168,9 @@ public String addcomments (String Text) {
 	
 	WebElement text =wait.until(ExpectedConditions.visibilityOfElementLocated(Commentsfields));
 	text.sendKeys(Text);
-	return text.getAttribute(Text);
+	
+	 WebElement value1= wait.until(ExpectedConditions.visibilityOfElementLocated(Commentsfields));
+	return value1.getAttribute("value");
 }
 
 
