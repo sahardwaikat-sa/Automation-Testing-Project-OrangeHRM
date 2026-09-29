@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeHRM_Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="03_PimTestRun(failed)">
+    <classes>
+      <class name="Tests.pimTest">
+        <methods>
+          <include name="verifySubUnitItems" invocation-numbers="0"/>
+          <include name="SetupObject"/>
+          <include name="tearDown"/>
+          <include name="verifyEmploymentStatusItems" invocation-numbers="0 1 2"/>
+          <include name="setupDriver"/>
+        </methods>
+      </class> <!-- Tests.pimTest -->
+    </classes>
+  </test> <!-- 03_PimTestRun(failed) -->
+  <test thread-count="5" name="04_LeaveTestRun(failed)">
+    <classes>
+      <class name="Tests.leaveTest">
+        <methods>
+          <include name="SetupObject"/>
+          <include name="tearDown"/>
+          <include name="setupDriver"/>
+          <include name="verifylistleaveitems" invocation-numbers="0"/>
+          <include name="verifyListLeave"/>
+          <include name="verifycoomentsfield" invocation-numbers="0 1 2"/>
+          <include name="verifyLeavedate" invocation-numbers="0 2 3 4 5"/>
+        </methods>
+      </class> <!-- Tests.leaveTest -->
+    </classes>
+  </test> <!-- 04_LeaveTestRun(failed) -->
+  <test thread-count="5" name="05_PimDeleteRun(failed)">
+    <classes>
+      <class name="Tests.pimTest">
+        <methods>
+          <include name="SetupObject"/>
+          <include name="verifyDeletButton"/>
+          <include name="tearDown"/>
+          <include name="setupDriver"/>
+        </methods>
+      </class> <!-- Tests.pimTest -->
+    </classes>
+  </test> <!-- 05_PimDeleteRun(failed) -->
+</suite> <!-- Failed suite [OrangeHRM_Suite] -->

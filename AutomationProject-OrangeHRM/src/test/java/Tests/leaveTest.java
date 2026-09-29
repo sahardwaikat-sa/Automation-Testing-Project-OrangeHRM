@@ -1,4 +1,4 @@
-package tests;
+package Tests;
 
 import org.testng.annotations.Test;
 
@@ -158,6 +158,7 @@ public Object[][] getCommentLengths() {
 	
 	@Test(dataProvider = "COMMENT_LENGTHS")
 	void verifycoomentsfield(String input, int expectedLength) {
+		LeaveObject.applyLeave();
 		
 	String Actual	=LeaveObject.addcomments (input);
 	Assert.assertEquals(Actual.length(), expectedLength, "expected max length");

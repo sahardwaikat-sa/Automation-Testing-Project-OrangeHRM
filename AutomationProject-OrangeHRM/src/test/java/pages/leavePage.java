@@ -23,7 +23,7 @@ public class leavePage {
 	By leavetype  = By.xpath("//label[text()='Leave Type' and contains(@class,'oxd-input-field-required')]/following::div[contains(@class,'oxd-select-text-input')][1]");
 	By fromDate   = By.xpath("//label[text()='From Date']/following::div[1]");
 	By ToDate    = By.xpath("//label[text()='To Date']/following::div[1]");
-	By Commentsfields = By.xpath("//label[text()='Comments']/following::div[1]");
+	By Commentsfields = By.xpath("//label[normalize-space()='Comments']/following::textarea[1]");
 	By Calnderpopup= By.xpath("//div[contains(@class,'oxd-date-input-calendar')]");
 	By PartialDays= By.xpath("//label[text()='Partial Days']/following::div[@class='oxd-select-text-input' and text()='All Days']");
     By duration =By.xpath("//label[text()='Duration']/following::div[@class='oxd-select-text-input' and text()='-- Select --']");
@@ -166,7 +166,7 @@ public boolean durationlist(String Type) {
 
 public String addcomments (String Text) {
 	
-	WebElement text= driver.findElement(Commentsfields);
+	WebElement text =wait.until(ExpectedConditions.visibilityOfElementLocated(Commentsfields));
 	text.sendKeys(Text);
 	return text.getAttribute(Text);
 }

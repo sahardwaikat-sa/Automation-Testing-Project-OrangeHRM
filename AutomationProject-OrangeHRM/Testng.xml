@@ -1,23 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="OrangeHRM_Suite" verbose="1">
 
-    <test name="LoginTestRun">
+<suite name="OrangeHRM_Suite" verbose="1" parallel="none">
+
+   
+    <test name="01_LoginTestRun">
         <classes>
             <class name="Tests.LoginTest"/>
-                 </classes>
-    </test>
-
-    <test name="PimTestRun">
-        <classes>
-            <class name="Tests.pimTest"/>
+            <class name="Tests.LoginForPimTest"/>
         </classes>
     </test>
 
-    <test name="LeaveTestRun">
+   
+    <test name="02_DirectoryTestRun">
         <classes>
-            <class name="Tests.leaveTest"/>
+            <class name="Tests.DirectoryTest"/>
+        </classes>
+    </test>
+
+    <test name="03_BuzzTestRun">
+        <classes>
+            <class name="Tests.BuzzTest"/>
+        </classes>
+    </test>
+
+    <test name="04_AdminReadRun">
+        <classes>
+            <class name="Tests.AdminTest">
+                <methods>
+                    <include name="verifyAdminPageDisplayed"/>
+                    <include name="searchValidUsername"/>
+                    <include name="searchInvalidUsername"/>
+                    <include name="searchByEmployeeName"/>
+                    <include name="searchByStatus"/>
+                    <include name="resetSearchFilters"/>
+                    <include name="searchWithMultipleFilters"/>
+                    <include name="verifyJobTitlesPage"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+   
+    <test name="05_AdminWriteRun">
+        <classes>
+            <class name="Tests.AdminTest">
+                <methods>
+                    <include name="addUser"/>
+                    <include name="addJobTitle"/>
+                   
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+  
+    <test name="06_PimTestRun">
+        <classes>
+            <class name="Tests.pimTest">
+                <methods>
+                    <include name="verifySearchFunctin"/>
+                    <include name="verifyEmployeeName"/>
+                    <include name="verifyEmployeeID"/>
+                    <include name="verifySupervisorName"/>
+                    <include name="verifyFieldDefaltValue"/>
+                    <include name="verifyCheckBoxAll"/>
+                    <include name="verifyfirstCheckBoxl"/>
+                    <include name="verifyEditButton"/>
+                    <include name="verifySubUnitList"/>
+                    <include name="verifySubUnitItems"/>
+                    <include name="verifyEmploymentStatus"/>
+                    <include name="verifyEmploymentStatusItems"/>
+                    <include name="verifyaddEmployee"/>
+                    <include name="verifyAddEmployeeData"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="07_LeaveTestRun">
+        <classes>
+            <class name="Tests.leaveTest">
+                <methods>
+                    <include name="verifyEnterleavepage"/>
+                    <include name="verifyEnterleaveApply"/>
+                    <include name="verifyListLeave"/>
+                    <include name="verifylistleaveitems"/>
+                    <include name="verifyLeavedate"/>
+                    <include name="verifycoomentsfield"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+ 
+    <test name="08_DeleteRun">
+        <classes>
+            <class name="Tests.pimTest">
+                <methods>
+                    <include name="verifyDeletButton"/>
+                </methods>
+            </class>
         </classes>
     </test>
 
 </suite>
+

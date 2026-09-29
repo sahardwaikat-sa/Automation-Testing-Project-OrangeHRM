@@ -1,4 +1,4 @@
-package tests;
+package Tests;
 
 
 
@@ -69,17 +69,12 @@ public class pimTest extends baseTest {
 		public Object[][] getstatus() {
 
 			return new Object[][] {
-				{" Freelance" }, 
-				{ "Full-Time Contract"},
+	            { "Full-Time Contract"},
 				{ "Full-Time Permanent"},
-				{"Full-Time Probation"},
-				{"Part-Time Contract"}
-
-			};
-			
-		}
+				{"Full-Time Probation"}
+				};
+					}
 		
-
 		@DataProvider(name = "ADDEMPLOYEEDAAT ")
 		public Object[][] getinfo() {
 
@@ -115,25 +110,7 @@ public class pimTest extends baseTest {
 
 		}
 		
-	//public void SetupObject() {
 
-		// login
-		//login("Admin", "admin123");
-
-		//PIMObject = new pimPage(driver);
-
-		// go to PIM
-		//PIMObject.enterPimPage();
-	//}
-//----------------------------------------------------------
-	//@Test
-	//void verifyEnterPimPage() {
-
-		//PIMObject.enterPimPage();
-
-		//Assert.assertTrue(driver.getCurrentUrl().contains("pim"));
-	//}
-//-----------------------------------------------------------------
 	@Test
 	void verifySearchFunctin() {
 
