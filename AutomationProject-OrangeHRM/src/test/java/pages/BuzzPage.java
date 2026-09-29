@@ -25,14 +25,14 @@ public class BuzzPage {
     	);
     By commentResult = By.xpath(
     	    "//span[normalize-space()='Great post!']");
-    By commentButton = By.xpath("//i[@class=\"oxd-icon bi-chat-text-fill\"][1]");
+    By commentButton = By.xpath("//i[@class=\"oxd-icon bi-chat-text-fill\"]");
 
     By commentBox = By.xpath(
         "//input[@placeholder='Write your comment...']" );
 
     By commentPostButton = By.xpath(
         "//button[normalize-space()='Post Comment']");
-    
+    By likeedpost=By.xpath("//button[contains(@class,'oxd-icon-button')][.//i[contains(@class,'bi-heart-fill')]])");
     public void clickBuzz() {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.elementToBeClickable(buzzLink)).click();
@@ -88,7 +88,13 @@ box.sendKeys(Keys.ENTER);
      
      
      
-     
+     public boolean  isPostLiked(){
+    	   WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+   	    return wait.until(
+   	        ExpectedConditions.visibilityOfElementLocated(likeedpost)
+   	    ).isDisplayed();
+     }
      
      
 }

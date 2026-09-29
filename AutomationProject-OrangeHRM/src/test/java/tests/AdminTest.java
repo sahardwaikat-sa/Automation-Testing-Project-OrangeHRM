@@ -115,9 +115,9 @@ public class AdminTest extends BaseClass {
 
         Thread.sleep(2000);
 
-       // String actualRole = adminPage.getUserRoleResult();
+      String actualRole = adminPage.getUserRoleResult();
 
-       // Assert.assertEquals(actualRole, "Admin");
+       Assert.assertEquals(actualRole, "Admin");
     }
     
     @Test

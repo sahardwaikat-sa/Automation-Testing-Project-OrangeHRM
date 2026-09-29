@@ -52,6 +52,8 @@ public class DirectoryTest extends BaseClass {
 	    directoryPage.clickDirectory();
 
 	    directoryPage.searchByJobTitle();
+	    String result = directoryPage.getEmployeeResult();
+	    Assert.assertTrue(result.contains("Atomation Tester"));
 	}
 	
 	
@@ -60,6 +62,7 @@ public class DirectoryTest extends BaseClass {
 	    DirectoryPage directoryPage = new DirectoryPage(driver);
 	    directoryPage.clickDirectory();
 	    directoryPage.searchByLocation();
+	    
 	}
 	
 	 @Test

@@ -1,7 +1,6 @@
 package pages;
 
 import java.time.Duration;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -17,9 +16,14 @@ public class AdminPage {
         this.driver = driver;
         
     }
-    By adminpage=By.xpath("//*[@id=\"app\"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a");
+    By successMessage = By.xpath(
+    	    "//div[contains(@class,'oxd-toast-content')]");
+    By yesDeleteButton =
+	        By.xpath("//button[normalize-space()='Yes, Delete']");
+
+   
     By UserManagementtext=By.xpath("//h6[text()='User Management']"); 
-    By usernameField = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[1]/div/div[2]/input");
+    By usernameField = By.xpath("//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div[1]/div2]/form/div[1]/div/div[1]/div/div[2]/input");
     By userRole = By.xpath("//div[@class=\"oxd-select-text-input\"][1]");
    
     By status = By.xpath("//label[text()='Status']/following::div[contains(@class,'oxd-select-text')][1]");
@@ -37,6 +41,7 @@ public class AdminPage {
      By userRoleadd = By.xpath(
          "//label[text()='User Role']/following::div[contains(@class,'oxd-select-text')][1]");
      By employeeNameadd = By.xpath("//input[@placeholder='Type for hints...']");
+     By adminpage=By.xpath("//*[@id=\"app\"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a");
      By statusadd = By.xpath(
          "//label[text()='Status']/following::div[contains(@class,'oxd-select-text')][1]");
      By username = By.xpath(
@@ -68,7 +73,7 @@ By jobTitleEditField = By.xpath( "//label[normalize-space()='Job Title']/followi
 
 By deleteJobTitleButton = By.xpath("//i[contains(@class,'bi-trash')]/..");
 
-
+By usernameEdit = By.xpath("//label[text()='Username']/following::input[1]");
 
 
 //admin page
@@ -170,14 +175,14 @@ By deleteJobTitleButton = By.xpath("//i[contains(@class,'bi-trash')]/..");
                 ).click();
             }
         
-         /*  public String getUserRoleResult() {
+        public String getUserRoleResult() {
 
                 WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 
                 return wait.until(
                     ExpectedConditions.visibilityOfElementLocated(resultUserRole)
                 ).getText();
-            }*/
+        }
             
             
             
@@ -279,8 +284,7 @@ By deleteJobTitleButton = By.xpath("//i[contains(@class,'bi-trash')]/..");
             
             
 
-                By successMessage = By.xpath(
-                	    "//div[contains(@class,'oxd-toast-content')]");
+               
 
                 	public String getSuccessMessage() {
 
@@ -309,7 +313,7 @@ By deleteJobTitleButton = By.xpath("//i[contains(@class,'bi-trash')]/..");
                     	    ).click(); 
                 	  
 
-                	    By usernameEdit = By.xpath("//label[text()='Username']/following::input[1]");
+  
 
                 	    WebElement usernameField = wait.until(
                 	        ExpectedConditions.visibilityOfElementLocated(usernameEdit)
@@ -343,8 +347,7 @@ By deleteJobTitleButton = By.xpath("//i[contains(@class,'bi-trash')]/..");
                 	    wait.until(
                 	        ExpectedConditions.elementToBeClickable(deleteButton)
                 	    ).click();
-                	    By yesDeleteButton = By.xpath("//button[normalize-space()='Yes, Delete']");
-
+                
                 	    wait.until(
                 	        ExpectedConditions.elementToBeClickable(yesDeleteButton)
                 	    ).click();
@@ -425,24 +428,12 @@ By deleteJobTitleButton = By.xpath("//i[contains(@class,'bi-trash')]/..");
                 	        ExpectedConditions.elementToBeClickable(deleteJobTitleButton)
                 	    ).click();
 
-                	    By yesDeleteButton =
-                	        By.xpath("//button[normalize-space()='Yes, Delete']");
-
                 	    wait.until(
                 	        ExpectedConditions.elementToBeClickable(yesDeleteButton)
                 	    ).click();
                 	}  	
                 	
-                	
-                	
-                	
-                	
-                	
-                	
-                	
-                	
-                	
-    }
+                }
     
     
     

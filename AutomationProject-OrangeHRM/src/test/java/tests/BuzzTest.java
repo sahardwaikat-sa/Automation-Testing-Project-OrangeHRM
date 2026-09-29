@@ -72,7 +72,8 @@ public class BuzzTest extends BaseClass {
 
         buzzPage.clickBuzz();
         buzzPage.likePost();
-        
+        Assert.assertTrue(buzzPage.isPostLiked());
+    
     }
     
     @Test
